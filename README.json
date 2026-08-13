@@ -1,0 +1,386 @@
+{
+  "items": [
+    {
+      "description": "Found an awesome query? Submit it here\nInterested in contributing in another way? See the contributing guidelines",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Industrial Control Systems"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Industrial Control System Protocols 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Prismview (Samsung Electronic Billboards) 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Gas Station Pump Controllers (ATGs) 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Electric Vehicle Chargers 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "GaugeTech Electricity Meters 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "XZERES Wind Turbines 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Internet of Things Devices"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Roombas 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mein Automowers 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "WinAQMS Environmental Monitor 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Brightsign Digital Sign 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Security Applications"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Cobalt Strike Servers 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Metasploit Servers 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Nessus Scanner Servers 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "NTOP Network Analyzers 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/wikiZ/RedGuard",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-08-20T17:43:35Z",
+            "owner": "wikiZ",
+            "repo": "RedGuard",
+            "stars": 1567
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/wikiZ/RedGuard/blob/a49d862c79a447bc300865bde08aa37548326f5b/config/RedGuard_CobaltStrike.go",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-08-20T17:43:35Z",
+            "owner": "wikiZ",
+            "repo": "RedGuard",
+            "stars": 1567
+          }
+        }
+      ],
+      "title": "RedGuard 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/lgandx/Responder",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-10T14:28:34Z",
+            "owner": "lgandx",
+            "repo": "Responder",
+            "stars": 6539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/lgandx/Responder/blob/07c963f5ea52e27977ef603de180d446d009ed41/tools/MultiRelay/RelayMultiPackets.py#L93",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-10T14:28:34Z",
+            "owner": "lgandx",
+            "repo": "Responder",
+            "stars": 6539
+          }
+        }
+      ],
+      "title": "Responder Server 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Open Directory Listing Host with Suspicious File Names in their Contents 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Databases"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Dashboards"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rancher Dashboards 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Game Servers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Counter-Strike Gameservers 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "FiveM 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Minecraft Servers 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Media Servers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Random Services"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hosts emitting GNSS payloads 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Directory Listing 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "shell2http 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Busybox Shells 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Unauthenticated Redis Servers 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Misconfigured Kubernetes Installations 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Misconfigured WordPress 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Prometheus Node Exporters 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Advanced Queries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "IPv6 Hosts 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Honeypots Hosts 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "North Korean Hosts 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hosts that identify as US government or military 🔎 →"
+    },
+    {
+      "description": "same_service(port: 53 and not service_name: DNS) and services.truncated: false",
+      "items": [],
+      "title": "Services Listening on 53 that are not DNS 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Services Listening on Port 22 that are not SSH 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Services Listening on 80 or 443 that are not HTTP or HTTPS (or UNKNOWN with TLS) 🔎 →"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jakejarvis/awesome-shodan-queries",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-27T20:36:28Z",
+            "owner": "jakejarvis",
+            "repo": "awesome-shodan-queries",
+            "stars": 7640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "salesforce/jarm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T18:08:06Z",
+            "owner": "salesforce",
+            "repo": "jarm",
+            "stars": 1315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "woj-ciech/Kamerka-GUI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-06-07T14:33:16Z",
+            "owner": "woj-ciech",
+            "repo": "Kamerka-GUI",
+            "stars": 865
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cedowens/C2-JARM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-20T01:08:27Z",
+            "owner": "cedowens",
+            "repo": "C2-JARM",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "emilyaustin/censys-resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-08-08T20:43:18Z",
+            "owner": "emilyaustin",
+            "repo": "censys-resources",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Credits"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Star History"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:08:01.207Z",
+    "original_repository": "thehappydinoa/awesome-censys-queries",
+    "original_repository_sha": "56ae5ce0bc14fd0b9b989188a12b4ca4831b2973",
+    "enhanced_repository": "enhansome/enhansome-censys-queries",
+    "enhanced_repository_description": null,
+    "title": "Awesome Censys Queries with stars"
+  }
+}

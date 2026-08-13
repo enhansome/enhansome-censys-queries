@@ -309,7 +309,7 @@ services.jarm.fingerprint: "29d21b20d29d29d21c41d21b21b41d494e0df9532e75299f15ba
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/Ne0nd0g/merlin> ⭐ 5,592 | 🐛 21 | 🌐 Go | 📅 2025-04-17
+* <https://github.com/Ne0nd0g/merlin> ⭐ 5,591 | 🐛 21 | 🌐 Go | 📅 2025-04-17
 
 </details>
 
@@ -324,7 +324,7 @@ same_service(port: 7443 and tls.certificates.leaf_data.subject.organization: "My
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/its-a-feature/Mythic> ⭐ 4,697 | 🐛 35 | 🌐 JavaScript | 📅 2026-08-05
+* <https://github.com/its-a-feature/Mythic> ⭐ 4,698 | 🐛 35 | 🌐 JavaScript | 📅 2026-08-05
 * <https://michaelkoczwara.medium.com/hunting-c2-with-shodan-223ca250d06f>
 
 </details>
@@ -354,7 +354,7 @@ same_service(
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/cobbr/Covenant> ⭐ 4,723 | 🐛 89 | 🌐 C# | 📅 2024-07-18
+* <https://github.com/cobbr/Covenant> ⭐ 4,722 | 🐛 89 | 🌐 C# | 📅 2024-07-18
 
 </details>
 
@@ -395,7 +395,7 @@ same_service(
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/BishopFox/sliver> ⭐ 11,671 | 🐛 226 | 🌐 Go | 📅 2026-08-13
+* <https://github.com/BishopFox/sliver> ⭐ 11,671 | 🐛 223 | 🌐 Go | 📅 2026-08-13
 
 </details>
 
@@ -408,7 +408,7 @@ services.jarm.fingerprint: "20d14d20d21d20d20c20d14d20d20daddf8a68a1444c74b6dbe0
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/kgretzky/evilginx2> ⭐ 15,474 | 🐛 269 | 🌐 Go | 📅 2026-06-10
+* <https://github.com/kgretzky/evilginx2> ⭐ 15,475 | 🐛 269 | 🌐 Go | 📅 2026-06-10
 
 </details>
 
@@ -464,7 +464,7 @@ services.http.response.headers.Server: "NimPlant C2 Server" or services.http.res
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/chvancooten/NimPlant> ⭐ 950 | 🐛 4 | 🌐 Rust | 📅 2026-03-02
+* <https://github.com/chvancooten/NimPlant> ⭐ 949 | 🐛 4 | 🌐 Rust | 📅 2026-03-02
 * <https://twitter.com/chvancooten/status/1629911090774589442>
 
 </details>
@@ -708,7 +708,7 @@ same_service(services.http.response.html_title=`cAdvisor - /` and services.http.
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/google/cadvisor> ⭐ 19,351 | 🐛 64 | 🌐 Go | 📅 2026-07-20
+* <https://github.com/google/cadvisor> ⭐ 19,354 | 🐛 65 | 🌐 Go | 📅 2026-07-20
 
 </details>
 
@@ -753,7 +753,7 @@ same_service(services.http.request.uri: "*/dashboard/" and services.http.respons
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/traefik/traefik> ⭐ 64,440 | 🐛 890 | 🌐 Go | 📅 2026-08-12
+* <https://github.com/traefik/traefik> ⭐ 64,443 | 🐛 890 | 🌐 Go | 📅 2026-08-12
 
 </details>
 

@@ -309,7 +309,7 @@ services.jarm.fingerprint: "29d21b20d29d29d21c41d21b21b41d494e0df9532e75299f15ba
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/Ne0nd0g/merlin> ⭐ 5,591 | 🐛 21 | 🌐 Go | 📅 2025-04-17
+* <https://github.com/Ne0nd0g/merlin> ⭐ 5,592 | 🐛 21 | 🌐 Go | 📅 2025-04-17
 
 </details>
 
@@ -354,7 +354,7 @@ same_service(
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/cobbr/Covenant> ⭐ 4,722 | 🐛 89 | 🌐 C# | 📅 2024-07-18
+* <https://github.com/cobbr/Covenant> ⭐ 4,723 | 🐛 89 | 🌐 C# | 📅 2024-07-18
 
 </details>
 
@@ -395,7 +395,7 @@ same_service(
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/BishopFox/sliver> ⭐ 11,671 | 🐛 223 | 🌐 Go | 📅 2026-08-13
+* <https://github.com/BishopFox/sliver> ⭐ 11,672 | 🐛 224 | 🌐 Go | 📅 2026-08-13
 
 </details>
 
@@ -408,7 +408,7 @@ services.jarm.fingerprint: "20d14d20d21d20d20c20d14d20d20daddf8a68a1444c74b6dbe0
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/kgretzky/evilginx2> ⭐ 15,475 | 🐛 269 | 🌐 Go | 📅 2026-06-10
+* <https://github.com/kgretzky/evilginx2> ⭐ 15,484 | 🐛 269 | 🌐 Go | 📅 2026-06-10
 
 </details>
 
@@ -640,8 +640,8 @@ services.banner="HTTP/1.1 401 Unauthorized\r\nServer: Microsoft-IIS/7.5\r\nDate:
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/lgandx/Responder> ⭐ 6,539 | 🐛 29 | 🌐 Python | 📅 2026-06-10
-* <https://github.com/lgandx/Responder/blob/07c963f5ea52e27977ef603de180d446d009ed41/tools/MultiRelay/RelayMultiPackets.py#L93> ⭐ 6,539 | 🐛 29 | 🌐 Python | 📅 2026-06-10
+* <https://github.com/lgandx/Responder> ⭐ 6,540 | 🐛 29 | 🌐 Python | 📅 2026-06-10
+* <https://github.com/lgandx/Responder/blob/07c963f5ea52e27977ef603de180d446d009ed41/tools/MultiRelay/RelayMultiPackets.py#L93> ⭐ 6,540 | 🐛 29 | 🌐 Python | 📅 2026-06-10
 
 </details>
 
@@ -708,7 +708,7 @@ same_service(services.http.response.html_title=`cAdvisor - /` and services.http.
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/google/cadvisor> ⭐ 19,354 | 🐛 65 | 🌐 Go | 📅 2026-07-20
+* <https://github.com/google/cadvisor> ⭐ 19,356 | 🐛 66 | 🌐 Go | 📅 2026-07-20
 
 </details>
 
@@ -753,7 +753,7 @@ same_service(services.http.request.uri: "*/dashboard/" and services.http.respons
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/traefik/traefik> ⭐ 64,443 | 🐛 890 | 🌐 Go | 📅 2026-08-12
+* <https://github.com/traefik/traefik> ⭐ 64,462 | 🐛 892 | 🌐 Go | 📅 2026-08-13
 
 </details>
 
@@ -1040,8 +1040,8 @@ not same_service(services.port: 443 and services.name: UNKNOWN and services.tls.
 
 ## Credits
 
-* [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,640 | 🐛 13 | 📅 2024-05-27
-* [salesforce/jarm](https://github.com/salesforce/jarm) ⭐ 1,315 | 🐛 14 | 🌐 Python | 📅 2026-06-02
+* [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,641 | 🐛 13 | 📅 2024-05-27
+* [salesforce/jarm](https://github.com/salesforce/jarm) ⭐ 1,316 | 🐛 14 | 🌐 Python | 📅 2026-08-13
 * [woj-ciech/Kamerka-GUI](https://github.com/woj-ciech/Kamerka-GUI) ⭐ 865 | 🐛 3 | 🌐 CSS | 📅 2026-06-07
 * [cedowens/C2-JARM](https://github.com/cedowens/C2-JARM) ⭐ 143 | 🐛 1 | 📅 2023-04-20
 * [emilyaustin/censys-resources](https://github.com/emilyaustin/censys-resources) ⭐ 3 | 🐛 0 | 📅 2022-08-08
@@ -1059,4 +1059,4 @@ not same_service(services.port: 443 and services.name: UNKNOWN and services.tls.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

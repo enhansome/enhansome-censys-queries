@@ -309,7 +309,7 @@ services.jarm.fingerprint: "29d21b20d29d29d21c41d21b21b41d494e0df9532e75299f15ba
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/Ne0nd0g/merlin> ⭐ 5,592 | 🐛 21 | 🌐 Go | 📅 2025-04-17
+* <https://github.com/Ne0nd0g/merlin> ⭐ 5,591 | 🐛 21 | 🌐 Go | 📅 2025-04-17
 
 </details>
 
@@ -324,7 +324,7 @@ same_service(port: 7443 and tls.certificates.leaf_data.subject.organization: "My
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/its-a-feature/Mythic> ⭐ 4,698 | 🐛 35 | 🌐 JavaScript | 📅 2026-08-05
+* <https://github.com/its-a-feature/Mythic> ⭐ 4,697 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-05
 * <https://michaelkoczwara.medium.com/hunting-c2-with-shodan-223ca250d06f>
 
 </details>
@@ -354,7 +354,7 @@ same_service(
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/cobbr/Covenant> ⭐ 4,723 | 🐛 89 | 🌐 C# | 📅 2024-07-18
+* <https://github.com/cobbr/Covenant> ⭐ 4,724 | 🐛 89 | 🌐 C# | 📅 2024-07-18
 
 </details>
 
@@ -373,7 +373,7 @@ same_service(
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/nettitude/PoshC2> ⭐ 2,126 | 🐛 25 | 🌐 PowerShell | 📅 2025-11-20
+* <https://github.com/nettitude/PoshC2> ⭐ 2,127 | 🐛 25 | 🌐 PowerShell | 📅 2025-11-20
 
 </details>
 
@@ -395,7 +395,7 @@ same_service(
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/BishopFox/sliver> ⭐ 11,672 | 🐛 224 | 🌐 Go | 📅 2026-08-13
+* <https://github.com/BishopFox/sliver> ⭐ 11,677 | 🐛 223 | 🌐 Go | 📅 2026-08-14
 
 </details>
 
@@ -408,7 +408,7 @@ services.jarm.fingerprint: "20d14d20d21d20d20c20d14d20d20daddf8a68a1444c74b6dbe0
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/kgretzky/evilginx2> ⭐ 15,484 | 🐛 269 | 🌐 Go | 📅 2026-06-10
+* <https://github.com/kgretzky/evilginx2> ⭐ 15,488 | 🐛 271 | 🌐 Go | 📅 2026-06-10
 
 </details>
 
@@ -585,7 +585,7 @@ services.tls.certificates.leaf_data.subject_dn: "C=US, ST=Minnesota, L=Minnetonk
     <summary markdown="span">References</summary>
 
 * <https://michaelkoczwara.medium.com/hunting-c2-with-shodan-223ca250d06f>
-* <https://github.com/nettitude/PoshC2/blob/517903431ab43e6d714b24b0752ba111f5d4c2f1/poshc2/server/Config.py#L137> ⭐ 2,126 | 🐛 25 | 🌐 PowerShell | 📅 2025-11-20
+* <https://github.com/nettitude/PoshC2/blob/517903431ab43e6d714b24b0752ba111f5d4c2f1/poshc2/server/Config.py#L137> ⭐ 2,127 | 🐛 25 | 🌐 PowerShell | 📅 2025-11-20
 
 </details>
 
@@ -708,7 +708,7 @@ same_service(services.http.response.html_title=`cAdvisor - /` and services.http.
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/google/cadvisor> ⭐ 19,356 | 🐛 66 | 🌐 Go | 📅 2026-07-20
+* <https://github.com/google/cadvisor> ⭐ 19,358 | 🐛 66 | 🌐 Go | 📅 2026-07-20
 
 </details>
 
@@ -753,7 +753,7 @@ same_service(services.http.request.uri: "*/dashboard/" and services.http.respons
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/traefik/traefik> ⭐ 64,462 | 🐛 892 | 🌐 Go | 📅 2026-08-13
+* <https://github.com/traefik/traefik> ⭐ 64,432 | 🐛 894 | 🌐 Go | 📅 2026-08-13
 
 </details>
 
@@ -890,7 +890,7 @@ services.http.response.html_title: "Home - Mongo Express"
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/mongo-express/mongo-express> ⭐ 5,981 | 🐛 163 | 🌐 JavaScript | 📅 2026-08-12
+* <https://github.com/mongo-express/mongo-express> ⭐ 5,981 | 🐛 163 | 🌐 JavaScript | 📅 2026-08-14
 
 </details>
 
@@ -1040,7 +1040,7 @@ not same_service(services.port: 443 and services.name: UNKNOWN and services.tls.
 
 ## Credits
 
-* [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,641 | 🐛 13 | 📅 2024-05-27
+* [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,645 | 🐛 13 | 📅 2024-05-27
 * [salesforce/jarm](https://github.com/salesforce/jarm) ⭐ 1,316 | 🐛 14 | 🌐 Python | 📅 2026-08-13
 * [woj-ciech/Kamerka-GUI](https://github.com/woj-ciech/Kamerka-GUI) ⭐ 865 | 🐛 3 | 🌐 CSS | 📅 2026-06-07
 * [cedowens/C2-JARM](https://github.com/cedowens/C2-JARM) ⭐ 143 | 🐛 1 | 📅 2023-04-20
@@ -1059,4 +1059,4 @@ not same_service(services.port: 443 and services.name: UNKNOWN and services.tls.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._

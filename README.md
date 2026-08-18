@@ -324,7 +324,7 @@ same_service(port: 7443 and tls.certificates.leaf_data.subject.organization: "My
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/its-a-feature/Mythic> ⭐ 4,704 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-05
+* <https://github.com/its-a-feature/Mythic> ⭐ 4,705 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-05
 * <https://michaelkoczwara.medium.com/hunting-c2-with-shodan-223ca250d06f>
 
 </details>
@@ -354,7 +354,7 @@ same_service(
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/cobbr/Covenant> ⭐ 4,724 | 🐛 89 | 🌐 C# | 📅 2024-07-18
+* <https://github.com/cobbr/Covenant> ⭐ 4,725 | 🐛 89 | 🌐 C# | 📅 2024-07-18
 
 </details>
 
@@ -373,7 +373,7 @@ same_service(
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/nettitude/PoshC2> ⭐ 2,128 | 🐛 25 | 🌐 PowerShell | 📅 2025-11-20
+* <https://github.com/nettitude/PoshC2> ⭐ 2,129 | 🐛 25 | 🌐 PowerShell | 📅 2025-11-20
 
 </details>
 
@@ -395,7 +395,7 @@ same_service(
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/BishopFox/sliver> ⭐ 11,687 | 🐛 225 | 🌐 Go | 📅 2026-08-17
+* <https://github.com/BishopFox/sliver> ⭐ 11,692 | 🐛 223 | 🌐 Go | 📅 2026-08-18
 
 </details>
 
@@ -408,7 +408,7 @@ services.jarm.fingerprint: "20d14d20d21d20d20c20d14d20d20daddf8a68a1444c74b6dbe0
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/kgretzky/evilginx2> ⭐ 15,492 | 🐛 271 | 🌐 Go | 📅 2026-06-10
+* <https://github.com/kgretzky/evilginx2> ⭐ 15,498 | 🐛 271 | 🌐 Go | 📅 2026-06-10
 
 </details>
 
@@ -585,7 +585,7 @@ services.tls.certificates.leaf_data.subject_dn: "C=US, ST=Minnesota, L=Minnetonk
     <summary markdown="span">References</summary>
 
 * <https://michaelkoczwara.medium.com/hunting-c2-with-shodan-223ca250d06f>
-* <https://github.com/nettitude/PoshC2/blob/517903431ab43e6d714b24b0752ba111f5d4c2f1/poshc2/server/Config.py#L137> ⭐ 2,128 | 🐛 25 | 🌐 PowerShell | 📅 2025-11-20
+* <https://github.com/nettitude/PoshC2/blob/517903431ab43e6d714b24b0752ba111f5d4c2f1/poshc2/server/Config.py#L137> ⭐ 2,129 | 🐛 25 | 🌐 PowerShell | 📅 2025-11-20
 
 </details>
 
@@ -640,8 +640,8 @@ services.banner="HTTP/1.1 401 Unauthorized\r\nServer: Microsoft-IIS/7.5\r\nDate:
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/lgandx/Responder> ⭐ 6,543 | 🐛 29 | 🌐 Python | 📅 2026-06-10
-* <https://github.com/lgandx/Responder/blob/07c963f5ea52e27977ef603de180d446d009ed41/tools/MultiRelay/RelayMultiPackets.py#L93> ⭐ 6,543 | 🐛 29 | 🌐 Python | 📅 2026-06-10
+* <https://github.com/lgandx/Responder> ⭐ 6,545 | 🐛 29 | 🌐 Python | 📅 2026-06-10
+* <https://github.com/lgandx/Responder/blob/07c963f5ea52e27977ef603de180d446d009ed41/tools/MultiRelay/RelayMultiPackets.py#L93> ⭐ 6,545 | 🐛 29 | 🌐 Python | 📅 2026-06-10
 
 </details>
 
@@ -708,7 +708,7 @@ same_service(services.http.response.html_title=`cAdvisor - /` and services.http.
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/google/cadvisor> ⭐ 19,361 | 🐛 66 | 🌐 Go | 📅 2026-07-20
+* <https://github.com/google/cadvisor> ⭐ 19,365 | 🐛 66 | 🌐 Go | 📅 2026-07-20
 
 </details>
 
@@ -753,7 +753,7 @@ same_service(services.http.request.uri: "*/dashboard/" and services.http.respons
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/traefik/traefik> ⭐ 64,461 | 🐛 900 | 🌐 Go | 📅 2026-08-13
+* <https://github.com/traefik/traefik> ⭐ 64,472 | 🐛 899 | 🌐 Go | 📅 2026-08-18
 
 </details>
 
@@ -890,7 +890,7 @@ services.http.response.html_title: "Home - Mongo Express"
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/mongo-express/mongo-express> ⭐ 5,981 | 🐛 163 | 🌐 JavaScript | 📅 2026-08-17
+* <https://github.com/mongo-express/mongo-express> ⭐ 5,981 | 🐛 164 | 🌐 JavaScript | 📅 2026-08-18
 
 </details>
 
@@ -1059,4 +1059,4 @@ not same_service(services.port: 443 and services.name: UNKNOWN and services.tls.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._

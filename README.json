@@ -56,7 +56,7 @@
                     "last_commit": "2026-06-10T14:28:34Z",
                     "owner": "lgandx",
                     "repo": "Responder",
-                    "stars": 6547
+                    "stars": 6551
                   }
                 },
                 {
@@ -71,7 +71,7 @@
                     "last_commit": "2026-06-10T14:28:34Z",
                     "owner": "lgandx",
                     "repo": "Responder",
-                    "stars": 6547
+                    "stars": 6551
                   }
                 }
               ],
@@ -102,7 +102,7 @@
             "last_commit": "2024-05-27T20:36:28Z",
             "owner": "jakejarvis",
             "repo": "awesome-shodan-queries",
-            "stars": 7655
+            "stars": 7656
           }
         },
         {
@@ -170,7 +170,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:20:20.908Z",
+    "last_updated": "2026-08-20T07:09:33.197Z",
     "original_repository": "thehappydinoa/awesome-censys-queries",
     "original_repository_id": 525467576,
     "original_repository_sha": "56ae5ce0bc14fd0b9b989188a12b4ca4831b2973",

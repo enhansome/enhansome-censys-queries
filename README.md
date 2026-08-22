@@ -2,8 +2,8 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/thehappydinoa/awesome-censys-queries/main.svg)](https://results.pre-commit.ci/latest/github/thehappydinoa/awesome-censys-queries/main)
-[![GitHub contributors](https://img.shields.io/github/contributors/thehappydinoa/awesome-censys-queries)](https://github.com/thehappydinoa/awesome-censys-queries/graphs/contributors) ⭐ 1,241 | 🐛 2 | 🌐 Python | 📅 2026-07-20
-[![GitHub Repo stars](https://img.shields.io/github/stars/thehappydinoa/awesome-censys-queries)](https://github.com/thehappydinoa/awesome-censys-queries/stargazers) ⭐ 1,241 | 🐛 2 | 🌐 Python | 📅 2026-07-20
+[![GitHub contributors](https://img.shields.io/github/contributors/thehappydinoa/awesome-censys-queries)](https://github.com/thehappydinoa/awesome-censys-queries/graphs/contributors) ⭐ 1,240 | 🐛 2 | 🌐 Python | 📅 2026-07-20
+[![GitHub Repo stars](https://img.shields.io/github/stars/thehappydinoa/awesome-censys-queries)](https://github.com/thehappydinoa/awesome-censys-queries/stargazers) ⭐ 1,240 | 🐛 2 | 🌐 Python | 📅 2026-07-20
 [![License](https://img.shields.io/github/license/thehappydinoa/awesome-censys-queries)](#license)
 ![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fthehappydinoa%2Fawesome-censys-queries)
 
@@ -17,7 +17,7 @@ A collection of fascinating and bizarre [Censys Search](https://search.censys.io
 
 ## Contributing
 
-Found an awesome query? [Submit it here](https://github.com/thehappydinoa/awesome-censys-queries/issues/new?assignees=thehappydinoa\&labels=query+submissions\&template=query-submission.md\&title=) ⭐ 1,241 | 🐛 2 | 🌐 Python | 📅 2026-07-20
+Found an awesome query? [Submit it here](https://github.com/thehappydinoa/awesome-censys-queries/issues/new?assignees=thehappydinoa\&labels=query+submissions\&template=query-submission.md\&title=) ⭐ 1,240 | 🐛 2 | 🌐 Python | 📅 2026-07-20
 
 Interested in contributing in another way? [See the contributing guidelines](CONTRIBUTING.md)
 
@@ -25,7 +25,7 @@ Interested in contributing in another way? [See the contributing guidelines](CON
 
 * [Censys Search](https://search.censys.io?ref=awesome-censys-queries)
 * [CensysGPT Beta - AI Generated Queries](https://gpt.censys.io?utm_source=github\&utm_medium=awesome-censys-queries\&utm_campaign=awesome-censys-queries)
-* [Legacy Search Queries](https://github.com/thehappydinoa/awesome-censys-queries/tree/legacy-search-queries) ⭐ 1,241 | 🐛 2 | 🌐 Python | 📅 2026-07-20 - For queries compatible with the legacy Censys search syntax
+* [Legacy Search Queries](https://github.com/thehappydinoa/awesome-censys-queries/tree/legacy-search-queries) ⭐ 1,240 | 🐛 2 | 🌐 Python | 📅 2026-07-20 - For queries compatible with the legacy Censys search syntax
 
 ## Key
 
@@ -309,7 +309,7 @@ services.jarm.fingerprint: "29d21b20d29d29d21c41d21b21b41d494e0df9532e75299f15ba
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/Ne0nd0g/merlin> ⭐ 5,596 | 🐛 21 | 🌐 Go | 📅 2025-04-17
+* <https://github.com/Ne0nd0g/merlin> ⭐ 5,597 | 🐛 21 | 🌐 Go | 📅 2025-04-17
 
 </details>
 
@@ -324,7 +324,7 @@ same_service(port: 7443 and tls.certificates.leaf_data.subject.organization: "My
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/its-a-feature/Mythic> ⭐ 4,712 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-05
+* <https://github.com/its-a-feature/Mythic> ⭐ 4,714 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-21
 * <https://michaelkoczwara.medium.com/hunting-c2-with-shodan-223ca250d06f>
 
 </details>
@@ -338,7 +338,7 @@ services.jarm.fingerprint: "00000000000000000041d00000041d9535d5979f591ae8e547c5
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/DeimosC2/DeimosC2> ⭐ 1,161 | 🐛 25 | 🌐 Vue | 📅 2025-04-17
+* <https://github.com/DeimosC2/DeimosC2> ⭐ 1,160 | 🐛 25 | 🌐 Vue | 📅 2025-04-17
 
 </details>
 
@@ -354,7 +354,7 @@ same_service(
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/cobbr/Covenant> ⭐ 4,727 | 🐛 89 | 🌐 C# | 📅 2024-07-18
+* <https://github.com/cobbr/Covenant> ⭐ 4,728 | 🐛 89 | 🌐 C# | 📅 2024-07-18
 
 </details>
 
@@ -373,7 +373,7 @@ same_service(
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/nettitude/PoshC2> ⭐ 2,129 | 🐛 25 | 🌐 PowerShell | 📅 2025-11-20
+* <https://github.com/nettitude/PoshC2> ⭐ 2,127 | 🐛 25 | 🌐 PowerShell | 📅 2025-11-20
 
 </details>
 
@@ -395,7 +395,7 @@ same_service(
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/BishopFox/sliver> ⭐ 11,706 | 🐛 218 | 🌐 Go | 📅 2026-08-19
+* <https://github.com/BishopFox/sliver> ⭐ 11,713 | 🐛 218 | 🌐 Go | 📅 2026-08-19
 
 </details>
 
@@ -571,7 +571,7 @@ same_service((services.http.response.html_title="Deimos C2" or services.tls.cert
     <summary markdown="span">References</summary>
 
 * <https://michaelkoczwara.medium.com/hunting-c2-with-shodan-223ca250d06f>
-* <https://github.com/DeimosC2/DeimosC2/blob/2f368a5b151ea2da9f4fcc3627b1eb7d28b38fe5/c2/lib/certs/gen_cert.go> ⭐ 1,161 | 🐛 25 | 🌐 Vue | 📅 2025-04-17
+* <https://github.com/DeimosC2/DeimosC2/blob/2f368a5b151ea2da9f4fcc3627b1eb7d28b38fe5/c2/lib/certs/gen_cert.go> ⭐ 1,160 | 🐛 25 | 🌐 Vue | 📅 2025-04-17
 
 </details>
 
@@ -585,7 +585,7 @@ services.tls.certificates.leaf_data.subject_dn: "C=US, ST=Minnesota, L=Minnetonk
     <summary markdown="span">References</summary>
 
 * <https://michaelkoczwara.medium.com/hunting-c2-with-shodan-223ca250d06f>
-* <https://github.com/nettitude/PoshC2/blob/517903431ab43e6d714b24b0752ba111f5d4c2f1/poshc2/server/Config.py#L137> ⭐ 2,129 | 🐛 25 | 🌐 PowerShell | 📅 2025-11-20
+* <https://github.com/nettitude/PoshC2/blob/517903431ab43e6d714b24b0752ba111f5d4c2f1/poshc2/server/Config.py#L137> ⭐ 2,127 | 🐛 25 | 🌐 PowerShell | 📅 2025-11-20
 
 </details>
 
@@ -708,7 +708,7 @@ same_service(services.http.response.html_title=`cAdvisor - /` and services.http.
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/google/cadvisor> ⭐ 19,375 | 🐛 64 | 🌐 Go | 📅 2026-07-20
+* <https://github.com/google/cadvisor> ⭐ 19,376 | 🐛 63 | 🌐 Go | 📅 2026-07-20
 
 </details>
 
@@ -753,7 +753,7 @@ same_service(services.http.request.uri: "*/dashboard/" and services.http.respons
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/traefik/traefik> ⭐ 64,527 | 🐛 905 | 🌐 Go | 📅 2026-08-20
+* <https://github.com/traefik/traefik> ⭐ 64,535 | 🐛 914 | 🌐 Go | 📅 2026-08-21
 
 </details>
 
@@ -890,7 +890,7 @@ services.http.response.html_title: "Home - Mongo Express"
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/mongo-express/mongo-express> ⭐ 5,983 | 🐛 164 | 🌐 JavaScript | 📅 2026-08-20
+* <https://github.com/mongo-express/mongo-express> ⭐ 5,983 | 🐛 164 | 🌐 JavaScript | 📅 2026-08-21
 
 </details>
 
@@ -1040,7 +1040,7 @@ not same_service(services.port: 443 and services.name: UNKNOWN and services.tls.
 
 ## Credits
 
-* [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,662 | 🐛 13 | 📅 2024-05-27
+* [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,660 | 🐛 13 | 📅 2024-05-27
 * [salesforce/jarm](https://github.com/salesforce/jarm) ⭐ 1,316 | 🐛 14 | 🌐 Python | 📅 2026-08-13
 * [woj-ciech/Kamerka-GUI](https://github.com/woj-ciech/Kamerka-GUI) ⭐ 865 | 🐛 3 | 🌐 CSS | 📅 2026-06-07
 * [cedowens/C2-JARM](https://github.com/cedowens/C2-JARM) ⭐ 143 | 🐛 1 | 📅 2023-04-20
@@ -1059,4 +1059,4 @@ not same_service(services.port: 443 and services.name: UNKNOWN and services.tls.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._

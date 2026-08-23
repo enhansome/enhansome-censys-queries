@@ -19,7 +19,7 @@
                     "last_commit": "2024-08-20T17:43:35Z",
                     "owner": "wikiZ",
                     "repo": "RedGuard",
-                    "stars": 1566
+                    "stars": 1567
                   }
                 },
                 {
@@ -34,7 +34,7 @@
                     "last_commit": "2024-08-20T17:43:35Z",
                     "owner": "wikiZ",
                     "repo": "RedGuard",
-                    "stars": 1566
+                    "stars": 1567
                   }
                 }
               ],
@@ -102,7 +102,7 @@
             "last_commit": "2024-05-27T20:36:28Z",
             "owner": "jakejarvis",
             "repo": "awesome-shodan-queries",
-            "stars": 7660
+            "stars": 7662
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-13T17:58:03Z",
             "owner": "salesforce",
             "repo": "jarm",
-            "stars": 1316
+            "stars": 1317
           }
         },
         {
@@ -170,7 +170,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T07:02:50.773Z",
+    "last_updated": "2026-08-23T07:05:13.446Z",
     "original_repository": "thehappydinoa/awesome-censys-queries",
     "original_repository_id": 525467576,
     "original_repository_sha": "56ae5ce0bc14fd0b9b989188a12b4ca4831b2973",

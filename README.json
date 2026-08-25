@@ -339,7 +339,7 @@
             "last_commit": "2026-08-24T16:28:06Z",
             "owner": "traefik",
             "repo": "traefik",
-            "stars": 64573
+            "stars": 64574
           }
         }
       ],
@@ -378,10 +378,10 @@
             "archived": false,
             "id": 4117355,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T16:13:44Z",
+            "last_commit": "2026-08-25T06:08:09Z",
             "owner": "mongo-express",
             "repo": "mongo-express",
-            "stars": 5984
+            "stars": 5986
           }
         }
       ],
@@ -470,7 +470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:05:27.061Z",
+    "last_updated": "2026-08-25T07:11:36.733Z",
     "original_repository": "thehappydinoa/awesome-censys-queries",
     "original_repository_id": 525467576,
     "original_repository_sha": "56ae5ce0bc14fd0b9b989188a12b4ca4831b2973",

@@ -753,7 +753,7 @@ same_service(services.http.request.uri: "*/dashboard/" and services.http.respons
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/traefik/traefik> ⭐ 64,573 | 🐛 916 | 🌐 Go | 📅 2026-08-24
+* <https://github.com/traefik/traefik> ⭐ 64,574 | 🐛 917 | 🌐 Go | 📅 2026-08-24
 
 </details>
 
@@ -890,7 +890,7 @@ services.http.response.html_title: "Home - Mongo Express"
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/mongo-express/mongo-express> ⭐ 5,984 | 🐛 164 | 🌐 JavaScript | 📅 2026-08-24
+* <https://github.com/mongo-express/mongo-express> ⭐ 5,986 | 🐛 164 | 🌐 JavaScript | 📅 2026-08-25
 
 </details>
 

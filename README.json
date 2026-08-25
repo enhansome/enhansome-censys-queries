@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/Ne0nd0g/merlin",
+          "title": "Ne0nd0g/merlin",
           "description": null,
           "children": [],
           "repo_info": {
@@ -26,7 +26,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/its-a-feature/Mythic",
+          "title": "its-a-feature/Mythic",
           "description": null,
           "children": [],
           "repo_info": {
@@ -36,7 +36,7 @@
             "last_commit": "2026-08-21T23:03:06Z",
             "owner": "its-a-feature",
             "repo": "Mythic",
-            "stars": 4719
+            "stars": 4720
           }
         }
       ],
@@ -47,7 +47,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/DeimosC2/DeimosC2",
+          "title": "DeimosC2/DeimosC2",
           "description": null,
           "children": [],
           "repo_info": {
@@ -68,7 +68,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/cobbr/Covenant",
+          "title": "cobbr/Covenant",
           "description": null,
           "children": [],
           "repo_info": {
@@ -89,7 +89,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/nettitude/PoshC2",
+          "title": "nettitude/PoshC2",
           "description": null,
           "children": [],
           "repo_info": {
@@ -110,17 +110,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/BishopFox/sliver",
+          "title": "BishopFox/sliver",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 166304026,
             "language": "Go",
-            "last_commit": "2026-08-24T13:45:22Z",
+            "last_commit": "2026-08-25T04:30:19Z",
             "owner": "BishopFox",
             "repo": "sliver",
-            "stars": 11721
+            "stars": 11726
           }
         }
       ],
@@ -131,7 +131,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/kgretzky/evilginx2",
+          "title": "kgretzky/evilginx2",
           "description": null,
           "children": [],
           "repo_info": {
@@ -141,7 +141,7 @@
             "last_commit": "2026-06-10T12:12:03Z",
             "owner": "kgretzky",
             "repo": "evilginx2",
-            "stars": 15526
+            "stars": 15528
           }
         }
       ],
@@ -152,7 +152,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/chvancooten/NimPlant",
+          "title": "chvancooten/NimPlant",
           "description": null,
           "children": [],
           "repo_info": {
@@ -173,7 +173,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/wikiZ/RedGuard",
+          "title": "wikiZ/RedGuard",
           "description": null,
           "children": [],
           "repo_info": {
@@ -188,7 +188,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/wikiZ/RedGuard/blob/a49d862c79a447bc300865bde08aa37548326f5b/config/RedGuard_CobaltStrike.go",
+          "title": "wikiZ/RedGuard",
           "description": null,
           "children": [],
           "repo_info": {
@@ -209,7 +209,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/DeimosC2/DeimosC2/blob/2f368a5b151ea2da9f4fcc3627b1eb7d28b38fe5/c2/lib/certs/gen_cert.go",
+          "title": "DeimosC2/DeimosC2",
           "description": null,
           "children": [],
           "repo_info": {
@@ -230,7 +230,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/nettitude/PoshC2/blob/517903431ab43e6d714b24b0752ba111f5d4c2f1/poshc2/server/Config.py#L137",
+          "title": "nettitude/PoshC2",
           "description": null,
           "children": [],
           "repo_info": {
@@ -251,7 +251,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/n1nj4sec/pupy",
+          "title": "n1nj4sec/pupy",
           "description": null,
           "children": [],
           "repo_info": {
@@ -272,7 +272,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/lgandx/Responder",
+          "title": "lgandx/Responder",
           "description": null,
           "children": [],
           "repo_info": {
@@ -282,12 +282,12 @@
             "last_commit": "2026-06-10T14:28:34Z",
             "owner": "lgandx",
             "repo": "Responder",
-            "stars": 6553
+            "stars": 6554
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/lgandx/Responder/blob/07c963f5ea52e27977ef603de180d446d009ed41/tools/MultiRelay/RelayMultiPackets.py#L93",
+          "title": "lgandx/Responder",
           "description": null,
           "children": [],
           "repo_info": {
@@ -297,7 +297,7 @@
             "last_commit": "2026-06-10T14:28:34Z",
             "owner": "lgandx",
             "repo": "Responder",
-            "stars": 6553
+            "stars": 6554
           }
         }
       ],
@@ -308,7 +308,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/google/cadvisor",
+          "title": "google/cadvisor",
           "description": null,
           "children": [],
           "repo_info": {
@@ -318,7 +318,7 @@
             "last_commit": "2026-07-20T21:23:51Z",
             "owner": "google",
             "repo": "cadvisor",
-            "stars": 19377
+            "stars": 19379
           }
         }
       ],
@@ -329,17 +329,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/traefik/traefik",
+          "title": "traefik/traefik",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 42408804,
             "language": "Go",
-            "last_commit": "2026-08-24T13:58:06Z",
+            "last_commit": "2026-08-24T16:28:06Z",
             "owner": "traefik",
             "repo": "traefik",
-            "stars": 64562
+            "stars": 64573
           }
         }
       ],
@@ -350,7 +350,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/MythTV/mythweb",
+          "title": "MythTV/mythweb",
           "description": null,
           "children": [],
           "repo_info": {
@@ -371,17 +371,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/mongo-express/mongo-express",
+          "title": "mongo-express/mongo-express",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 4117355,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T20:48:02Z",
+            "last_commit": "2026-08-24T16:13:44Z",
             "owner": "mongo-express",
             "repo": "mongo-express",
-            "stars": 5983
+            "stars": 5984
           }
         }
       ],
@@ -402,7 +402,7 @@
             "last_commit": "2024-05-27T20:36:28Z",
             "owner": "jakejarvis",
             "repo": "awesome-shodan-queries",
-            "stars": 7667
+            "stars": 7669
           }
         },
         {
@@ -470,7 +470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:14:54.527Z",
+    "last_updated": "2026-08-25T06:05:27.061Z",
     "original_repository": "thehappydinoa/awesome-censys-queries",
     "original_repository_id": 525467576,
     "original_repository_sha": "56ae5ce0bc14fd0b9b989188a12b4ca4831b2973",

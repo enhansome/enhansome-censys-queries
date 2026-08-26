@@ -15,7 +15,7 @@
             "last_commit": "2025-04-17T15:08:42Z",
             "owner": "Ne0nd0g",
             "repo": "merlin",
-            "stars": 5598
+            "stars": 5599
           }
         }
       ],
@@ -36,7 +36,7 @@
             "last_commit": "2026-08-21T23:03:06Z",
             "owner": "its-a-feature",
             "repo": "Mythic",
-            "stars": 4720
+            "stars": 4724
           }
         }
       ],
@@ -99,7 +99,7 @@
             "last_commit": "2025-11-20T13:55:21Z",
             "owner": "nettitude",
             "repo": "PoshC2",
-            "stars": 2131
+            "stars": 2132
           }
         }
       ],
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 166304026,
             "language": "Go",
-            "last_commit": "2026-08-25T04:30:19Z",
+            "last_commit": "2026-08-25T23:21:39Z",
             "owner": "BishopFox",
             "repo": "sliver",
-            "stars": 11726
+            "stars": 11728
           }
         }
       ],
@@ -141,7 +141,7 @@
             "last_commit": "2026-06-10T12:12:03Z",
             "owner": "kgretzky",
             "repo": "evilginx2",
-            "stars": 15528
+            "stars": 15531
           }
         }
       ],
@@ -240,7 +240,7 @@
             "last_commit": "2025-11-20T13:55:21Z",
             "owner": "nettitude",
             "repo": "PoshC2",
-            "stars": 2131
+            "stars": 2132
           }
         }
       ],
@@ -282,7 +282,7 @@
             "last_commit": "2026-06-10T14:28:34Z",
             "owner": "lgandx",
             "repo": "Responder",
-            "stars": 6554
+            "stars": 6555
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2026-06-10T14:28:34Z",
             "owner": "lgandx",
             "repo": "Responder",
-            "stars": 6554
+            "stars": 6555
           }
         }
       ],
@@ -318,7 +318,7 @@
             "last_commit": "2026-07-20T21:23:51Z",
             "owner": "google",
             "repo": "cadvisor",
-            "stars": 19379
+            "stars": 19380
           }
         }
       ],
@@ -336,10 +336,10 @@
             "archived": false,
             "id": 42408804,
             "language": "Go",
-            "last_commit": "2026-08-24T16:28:06Z",
+            "last_commit": "2026-08-25T15:30:06Z",
             "owner": "traefik",
             "repo": "traefik",
-            "stars": 64574
+            "stars": 64592
           }
         }
       ],
@@ -378,7 +378,7 @@
             "archived": false,
             "id": 4117355,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T06:08:09Z",
+            "last_commit": "2026-08-26T02:20:00Z",
             "owner": "mongo-express",
             "repo": "mongo-express",
             "stars": 5986
@@ -402,7 +402,7 @@
             "last_commit": "2024-05-27T20:36:28Z",
             "owner": "jakejarvis",
             "repo": "awesome-shodan-queries",
-            "stars": 7669
+            "stars": 7671
           }
         },
         {
@@ -432,7 +432,7 @@
             "last_commit": "2026-06-07T14:33:16Z",
             "owner": "woj-ciech",
             "repo": "Kamerka-GUI",
-            "stars": 865
+            "stars": 866
           }
         },
         {
@@ -470,7 +470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T07:11:36.733Z",
+    "last_updated": "2026-08-26T07:11:53.355Z",
     "original_repository": "thehappydinoa/awesome-censys-queries",
     "original_repository_id": 525467576,
     "original_repository_sha": "56ae5ce0bc14fd0b9b989188a12b4ca4831b2973",

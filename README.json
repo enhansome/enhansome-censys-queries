@@ -15,7 +15,7 @@
             "last_commit": "2025-04-17T15:08:42Z",
             "owner": "Ne0nd0g",
             "repo": "merlin",
-            "stars": 5600
+            "stars": 5599
           }
         }
       ],
@@ -36,7 +36,7 @@
             "last_commit": "2026-08-21T23:03:06Z",
             "owner": "its-a-feature",
             "repo": "Mythic",
-            "stars": 4728
+            "stars": 4727
           }
         }
       ],
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 166304026,
             "language": "Go",
-            "last_commit": "2026-08-26T21:00:55Z",
+            "last_commit": "2026-08-27T17:40:03Z",
             "owner": "BishopFox",
             "repo": "sliver",
-            "stars": 11730
+            "stars": 11732
           }
         }
       ],
@@ -141,7 +141,7 @@
             "last_commit": "2026-06-10T12:12:03Z",
             "owner": "kgretzky",
             "repo": "evilginx2",
-            "stars": 15536
+            "stars": 15537
           }
         }
       ],
@@ -282,7 +282,7 @@
             "last_commit": "2026-06-10T14:28:34Z",
             "owner": "lgandx",
             "repo": "Responder",
-            "stars": 6556
+            "stars": 6557
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2026-06-10T14:28:34Z",
             "owner": "lgandx",
             "repo": "Responder",
-            "stars": 6556
+            "stars": 6557
           }
         }
       ],
@@ -336,10 +336,10 @@
             "archived": false,
             "id": 42408804,
             "language": "Go",
-            "last_commit": "2026-08-26T13:29:23Z",
+            "last_commit": "2026-08-27T14:52:06Z",
             "owner": "traefik",
             "repo": "traefik",
-            "stars": 64614
+            "stars": 64618
           }
         }
       ],
@@ -378,7 +378,7 @@
             "archived": false,
             "id": 4117355,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T01:04:17Z",
+            "last_commit": "2026-08-27T13:12:17Z",
             "owner": "mongo-express",
             "repo": "mongo-express",
             "stars": 5986
@@ -402,7 +402,7 @@
             "last_commit": "2024-05-27T20:36:28Z",
             "owner": "jakejarvis",
             "repo": "awesome-shodan-queries",
-            "stars": 7674
+            "stars": 7675
           }
         },
         {
@@ -470,7 +470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:32:50.372Z",
+    "last_updated": "2026-08-27T17:40:48.469Z",
     "original_repository_info": {
       "archived": false,
       "id": 525467576,

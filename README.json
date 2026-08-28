@@ -16,7 +16,8 @@
             "owner": "Ne0nd0g",
             "repo": "merlin",
             "stars": 5599
-          }
+          },
+          "first_seen": "2026-08-28T18:47:41.803Z"
         }
       ],
       "title": "References"
@@ -36,8 +37,9 @@
             "last_commit": "2026-08-21T23:03:06Z",
             "owner": "its-a-feature",
             "repo": "Mythic",
-            "stars": 4727
-          }
+            "stars": 4728
+          },
+          "first_seen": "2026-08-28T18:47:41.803Z"
         }
       ],
       "title": "References"
@@ -58,7 +60,8 @@
             "owner": "DeimosC2",
             "repo": "DeimosC2",
             "stars": 1160
-          }
+          },
+          "first_seen": "2026-08-28T18:47:41.803Z"
         }
       ],
       "title": "References"
@@ -78,8 +81,9 @@
             "last_commit": "2024-07-18T17:25:35Z",
             "owner": "cobbr",
             "repo": "Covenant",
-            "stars": 4730
-          }
+            "stars": 4732
+          },
+          "first_seen": "2026-08-28T18:47:41.803Z"
         }
       ],
       "title": "References"
@@ -100,7 +104,8 @@
             "owner": "nettitude",
             "repo": "PoshC2",
             "stars": 2132
-          }
+          },
+          "first_seen": "2026-08-28T18:47:41.803Z"
         }
       ],
       "title": "References"
@@ -117,11 +122,12 @@
             "archived": false,
             "id": 166304026,
             "language": "Go",
-            "last_commit": "2026-08-27T17:40:03Z",
+            "last_commit": "2026-08-28T18:27:31Z",
             "owner": "BishopFox",
             "repo": "sliver",
-            "stars": 11732
-          }
+            "stars": 11741
+          },
+          "first_seen": "2026-08-28T18:47:41.803Z"
         }
       ],
       "title": "References"
@@ -141,8 +147,9 @@
             "last_commit": "2026-06-10T12:12:03Z",
             "owner": "kgretzky",
             "repo": "evilginx2",
-            "stars": 15537
-          }
+            "stars": 15542
+          },
+          "first_seen": "2026-08-28T18:47:41.803Z"
         }
       ],
       "title": "References"
@@ -163,7 +170,8 @@
             "owner": "chvancooten",
             "repo": "NimPlant",
             "stars": 951
-          }
+          },
+          "first_seen": "2026-08-28T18:47:41.803Z"
         }
       ],
       "title": "References"
@@ -184,7 +192,8 @@
             "owner": "wikiZ",
             "repo": "RedGuard",
             "stars": 1567
-          }
+          },
+          "first_seen": "2026-08-28T18:47:41.803Z"
         },
         {
           "node_type": "item",
@@ -199,7 +208,8 @@
             "owner": "wikiZ",
             "repo": "RedGuard",
             "stars": 1567
-          }
+          },
+          "first_seen": "2026-08-28T18:47:41.803Z"
         }
       ],
       "title": "References"
@@ -220,7 +230,8 @@
             "owner": "DeimosC2",
             "repo": "DeimosC2",
             "stars": 1160
-          }
+          },
+          "first_seen": "2026-08-28T18:47:41.803Z"
         }
       ],
       "title": "References"
@@ -241,7 +252,8 @@
             "owner": "nettitude",
             "repo": "PoshC2",
             "stars": 2132
-          }
+          },
+          "first_seen": "2026-08-28T18:47:41.803Z"
         }
       ],
       "title": "References"
@@ -262,7 +274,8 @@
             "owner": "n1nj4sec",
             "repo": "pupy",
             "stars": 8999
-          }
+          },
+          "first_seen": "2026-08-28T18:47:41.803Z"
         }
       ],
       "title": "References"
@@ -282,8 +295,9 @@
             "last_commit": "2026-06-10T14:28:34Z",
             "owner": "lgandx",
             "repo": "Responder",
-            "stars": 6557
-          }
+            "stars": 6560
+          },
+          "first_seen": "2026-08-28T18:47:41.803Z"
         },
         {
           "node_type": "item",
@@ -297,8 +311,9 @@
             "last_commit": "2026-06-10T14:28:34Z",
             "owner": "lgandx",
             "repo": "Responder",
-            "stars": 6557
-          }
+            "stars": 6560
+          },
+          "first_seen": "2026-08-28T18:47:41.803Z"
         }
       ],
       "title": "References"
@@ -318,8 +333,9 @@
             "last_commit": "2026-07-20T21:23:51Z",
             "owner": "google",
             "repo": "cadvisor",
-            "stars": 19382
-          }
+            "stars": 19383
+          },
+          "first_seen": "2026-08-28T18:47:41.803Z"
         }
       ],
       "title": "References"
@@ -336,11 +352,12 @@
             "archived": false,
             "id": 42408804,
             "language": "Go",
-            "last_commit": "2026-08-27T14:52:06Z",
+            "last_commit": "2026-08-28T16:14:06Z",
             "owner": "traefik",
             "repo": "traefik",
-            "stars": 64618
-          }
+            "stars": 64636
+          },
+          "first_seen": "2026-08-28T18:47:41.803Z"
         }
       ],
       "title": "References"
@@ -361,7 +378,8 @@
             "owner": "MythTV",
             "repo": "mythweb",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T18:47:41.803Z"
         }
       ],
       "title": "References"
@@ -378,11 +396,12 @@
             "archived": false,
             "id": 4117355,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T13:12:17Z",
+            "last_commit": "2026-08-28T06:34:56Z",
             "owner": "mongo-express",
             "repo": "mongo-express",
-            "stars": 5986
-          }
+            "stars": 5985
+          },
+          "first_seen": "2026-08-28T18:47:41.803Z"
         }
       ],
       "title": "References"
@@ -402,8 +421,9 @@
             "last_commit": "2024-05-27T20:36:28Z",
             "owner": "jakejarvis",
             "repo": "awesome-shodan-queries",
-            "stars": 7675
-          }
+            "stars": 7679
+          },
+          "first_seen": "2026-08-28T18:47:41.803Z"
         },
         {
           "node_type": "item",
@@ -418,7 +438,8 @@
             "owner": "salesforce",
             "repo": "jarm",
             "stars": 1317
-          }
+          },
+          "first_seen": "2026-08-28T18:47:41.803Z"
         },
         {
           "node_type": "item",
@@ -433,7 +454,8 @@
             "owner": "woj-ciech",
             "repo": "Kamerka-GUI",
             "stars": 866
-          }
+          },
+          "first_seen": "2026-08-28T18:47:41.803Z"
         },
         {
           "node_type": "item",
@@ -448,7 +470,8 @@
             "owner": "cedowens",
             "repo": "C2-JARM",
             "stars": 143
-          }
+          },
+          "first_seen": "2026-08-28T18:47:41.803Z"
         },
         {
           "node_type": "item",
@@ -463,14 +486,15 @@
             "owner": "emilyaustin",
             "repo": "censys-resources",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T18:47:41.803Z"
         }
       ],
       "title": "Credits"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:40:48.469Z",
+    "last_updated": "2026-08-28T18:47:41.803Z",
     "original_repository_info": {
       "archived": false,
       "id": 525467576,
@@ -478,7 +502,7 @@
       "last_commit": "2026-07-20T18:26:47Z",
       "owner": "thehappydinoa",
       "repo": "awesome-censys-queries",
-      "stars": 1240
+      "stars": 1239
     },
     "original_repository_sha": "56ae5ce0bc14fd0b9b989188a12b4ca4831b2973",
     "enhanced_repository": "enhansome/enhansome-censys-queries",

@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang.",
+            "homepage": null,
             "id": 78200488,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2025-04-17T15:08:42Z",
+            "open_issues": 21,
             "owner": "Ne0nd0g",
             "repo": "merlin",
-            "stars": 5599
+            "stars": 5599,
+            "topics": [
+              "agent",
+              "c2",
+              "command-and-control",
+              "golang",
+              "http2",
+              "post-exploitation"
+            ]
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
         }
@@ -32,12 +44,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collaborative, multi-platform, red teaming framework",
+            "homepage": null,
             "id": 139783546,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T23:03:06Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:54:40Z",
+            "open_issues": 40,
             "owner": "its-a-feature",
             "repo": "Mythic",
-            "stars": 4728
+            "stars": 4728,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
         }
@@ -54,12 +71,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DeimosC2 is a Golang command and control framework for post-exploitation.",
+            "homepage": null,
             "id": 276189496,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2025-04-17T17:49:44Z",
+            "open_issues": 25,
             "owner": "DeimosC2",
             "repo": "DeimosC2",
-            "stars": 1160
+            "stars": 1160,
+            "topics": [
+              "c2",
+              "doh",
+              "golang",
+              "hacktoberfest",
+              "https",
+              "infosec",
+              "quic",
+              "red-team",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
         }
@@ -76,12 +108,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Covenant is a collaborative .NET C2 framework for red teamers.",
+            "homepage": "https://cobbr.io/Covenant.html",
             "id": 169597853,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2024-07-18T17:25:35Z",
+            "open_issues": 89,
             "owner": "cobbr",
             "repo": "Covenant",
-            "stars": 4732
+            "stars": 4732,
+            "topics": [
+              "c2",
+              "covenant",
+              "dotnet",
+              "dotnet-core",
+              "red-team"
+            ]
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
         }
@@ -98,12 +141,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement.",
+            "homepage": null,
             "id": 141987967,
             "language": "PowerShell",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-11-20T13:55:21Z",
+            "open_issues": 25,
             "owner": "nettitude",
             "repo": "PoshC2",
-            "stars": 2132
+            "stars": 2132,
+            "topics": [
+              "c2",
+              "csharp",
+              "nettitude",
+              "payloads",
+              "poshc2",
+              "poshc2-installation",
+              "powershell",
+              "proxy-aware",
+              "python3",
+              "redteam"
+            ]
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
         }
@@ -120,12 +179,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adversary Emulation Framework",
+            "homepage": null,
             "id": 166304026,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T18:27:31Z",
+            "open_issues": 225,
             "owner": "BishopFox",
             "repo": "sliver",
-            "stars": 11741
+            "stars": 11743,
+            "topics": [
+              "adversarial-attacks",
+              "adversary-simulation",
+              "c2",
+              "command-and-control",
+              "dns",
+              "dns-server",
+              "golang",
+              "gplv3",
+              "http",
+              "implant",
+              "red-team",
+              "red-team-engagement",
+              "red-teaming",
+              "security-tools",
+              "sliver"
+            ]
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
         }
@@ -142,12 +222,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+            "homepage": null,
             "id": 140412864,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-10T12:12:03Z",
+            "open_issues": 271,
             "owner": "kgretzky",
             "repo": "evilginx2",
-            "stars": 15542
+            "stars": 15543,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
         }
@@ -164,12 +249,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A light-weight first-stage C2 implant written in Nim (and Rust).",
+            "homepage": null,
             "id": 601157008,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-03-02T10:59:25Z",
+            "open_issues": 4,
             "owner": "chvancooten",
             "repo": "NimPlant",
-            "stars": 951
+            "stars": 951,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
         }
@@ -186,12 +276,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RedGuard is a C2 front flow control tool,Can avoid Blue Teams,AVs,EDRs check.",
+            "homepage": null,
             "id": 489841047,
             "language": "Go",
+            "license": "GPL-2.0",
             "last_commit": "2024-08-20T17:43:35Z",
+            "open_issues": 0,
             "owner": "wikiZ",
             "repo": "RedGuard",
-            "stars": 1567
+            "stars": 1567,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
         },
@@ -202,12 +297,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RedGuard is a C2 front flow control tool,Can avoid Blue Teams,AVs,EDRs check.",
+            "homepage": null,
             "id": 489841047,
             "language": "Go",
+            "license": "GPL-2.0",
             "last_commit": "2024-08-20T17:43:35Z",
+            "open_issues": 0,
             "owner": "wikiZ",
             "repo": "RedGuard",
-            "stars": 1567
+            "stars": 1567,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
         }
@@ -224,12 +324,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DeimosC2 is a Golang command and control framework for post-exploitation.",
+            "homepage": null,
             "id": 276189496,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2025-04-17T17:49:44Z",
+            "open_issues": 25,
             "owner": "DeimosC2",
             "repo": "DeimosC2",
-            "stars": 1160
+            "stars": 1160,
+            "topics": [
+              "c2",
+              "doh",
+              "golang",
+              "hacktoberfest",
+              "https",
+              "infosec",
+              "quic",
+              "red-team",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
         }
@@ -246,12 +361,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement.",
+            "homepage": null,
             "id": 141987967,
             "language": "PowerShell",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-11-20T13:55:21Z",
+            "open_issues": 25,
             "owner": "nettitude",
             "repo": "PoshC2",
-            "stars": 2132
+            "stars": 2132,
+            "topics": [
+              "c2",
+              "csharp",
+              "nettitude",
+              "payloads",
+              "poshc2",
+              "poshc2-installation",
+              "powershell",
+              "proxy-aware",
+              "python3",
+              "redteam"
+            ]
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
         }
@@ -268,12 +399,35 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C",
+            "homepage": null,
             "id": 42882329,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-03-22T08:52:53Z",
+            "open_issues": 177,
             "owner": "n1nj4sec",
             "repo": "pupy",
-            "stars": 8999
+            "stars": 8999,
+            "topics": [
+              "android",
+              "backdoor",
+              "linux",
+              "mac-os",
+              "meterpreter",
+              "payload",
+              "pentesting",
+              "post-exploitation",
+              "pupy",
+              "python",
+              "rat",
+              "reflective-injection",
+              "remote-access",
+              "remote-admin-tool",
+              "reverse-shell",
+              "shell",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
         }
@@ -290,12 +444,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication. ",
+            "homepage": null,
             "id": 67535141,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-10T14:28:34Z",
+            "open_issues": 29,
             "owner": "lgandx",
             "repo": "Responder",
-            "stars": 6560
+            "stars": 6561,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
         },
@@ -306,12 +465,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication. ",
+            "homepage": null,
             "id": 67535141,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-10T14:28:34Z",
+            "open_issues": 29,
             "owner": "lgandx",
             "repo": "Responder",
-            "stars": 6560
+            "stars": 6561,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
         }
@@ -328,12 +492,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Analyzes resource usage and performance characteristics of running containers.",
+            "homepage": null,
             "id": 20653934,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-20T21:23:51Z",
+            "open_issues": 62,
             "owner": "google",
             "repo": "cadvisor",
-            "stars": 19383
+            "stars": 19385,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
         }
@@ -350,12 +519,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Cloud Native Application Proxy",
+            "homepage": "https://traefik.io",
             "id": 42408804,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T16:14:06Z",
+            "open_issues": 914,
             "owner": "traefik",
             "repo": "traefik",
-            "stars": 64636
+            "stars": 64639,
+            "topics": [
+              "consul",
+              "docker",
+              "etcd",
+              "go",
+              "golang",
+              "kubernetes",
+              "letsencrypt",
+              "load-balancer",
+              "marathon",
+              "mesos",
+              "microservice",
+              "reverse-proxy",
+              "traefik",
+              "zookeeper"
+            ]
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
         }
@@ -372,12 +561,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official MythTV mythweb repository",
+            "homepage": null,
             "id": 1130526,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-09T19:09:47Z",
+            "open_issues": 14,
             "owner": "MythTV",
             "repo": "mythweb",
-            "stars": 97
+            "stars": 97,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
         }
@@ -394,12 +588,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web-based MongoDB admin interface, written with Node.js and Express",
+            "homepage": null,
             "id": 4117355,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T06:34:56Z",
+            "open_issues": 164,
             "owner": "mongo-express",
             "repo": "mongo-express",
-            "stars": 5985
+            "stars": 5984,
+            "topics": [
+              "express-middleware",
+              "gui",
+              "hacktoberfest",
+              "hacktoberfest2020",
+              "javascript",
+              "mongodb",
+              "standalone"
+            ]
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
         }
@@ -416,12 +623,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻",
+            "homepage": "https://jarv.is/notes/shodan-search-queries/",
             "id": 183485617,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-05-27T20:36:28Z",
+            "open_issues": 13,
             "owner": "jakejarvis",
             "repo": "awesome-shodan-queries",
-            "stars": 7679
+            "stars": 7679,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "cloud",
+              "dorks",
+              "hacking",
+              "infosec",
+              "internet-of-things",
+              "iot",
+              "network-infrastructure",
+              "penetration-testing",
+              "pentesting",
+              "security",
+              "security-scanner",
+              "security-tools",
+              "shodan",
+              "shodan-dorks"
+            ]
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
         },
@@ -432,12 +661,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 278482508,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-13T17:58:03Z",
+            "open_issues": 14,
             "owner": "salesforce",
             "repo": "jarm",
-            "stars": 1317
+            "stars": 1317,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
         },
@@ -448,12 +682,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ultimate Internet of Things/Industrial Control Systems reconnaissance tool.",
+            "homepage": null,
             "id": 220044607,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-06-07T14:33:16Z",
+            "open_issues": 3,
             "owner": "woj-ciech",
             "repo": "Kamerka-GUI",
-            "stars": 866
+            "stars": 866,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
         },
@@ -464,12 +703,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of JARM hashes for different ssl implementations used by some C2/red team tools.",
+            "homepage": null,
             "id": 320648328,
             "language": null,
+            "license": null,
             "last_commit": "2023-04-20T01:08:27Z",
+            "open_issues": 1,
             "owner": "cedowens",
             "repo": "C2-JARM",
-            "stars": 143
+            "stars": 143,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
         },
@@ -480,12 +724,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 522094431,
             "language": null,
+            "license": null,
             "last_commit": "2022-08-08T20:43:18Z",
+            "open_issues": 0,
             "owner": "emilyaustin",
             "repo": "censys-resources",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
         }
@@ -494,15 +743,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:47:41.803Z",
+    "last_updated": "2026-08-29T04:34:04.009Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of fascinating and bizarre Censys Search Queries ",
+      "homepage": null,
       "id": 525467576,
       "language": "Python",
+      "license": "CC0-1.0",
       "last_commit": "2026-07-20T18:26:47Z",
+      "open_issues": 2,
       "owner": "thehappydinoa",
       "repo": "awesome-censys-queries",
-      "stars": 1239
+      "stars": 1239,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "censys",
+        "censys-dorks",
+        "dorks",
+        "hacktoberfest",
+        "ics",
+        "iot",
+        "osint",
+        "queries",
+        "search",
+        "security-tools"
+      ]
     },
     "original_repository_sha": "56ae5ce0bc14fd0b9b989188a12b4ca4831b2973",
     "enhanced_repository": "enhansome/enhansome-censys-queries",

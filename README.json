@@ -19,7 +19,7 @@
             "open_issues": 21,
             "owner": "Ne0nd0g",
             "repo": "merlin",
-            "stars": 5599,
+            "stars": 5600,
             "topics": [
               "agent",
               "c2",
@@ -53,7 +53,7 @@
             "open_issues": 40,
             "owner": "its-a-feature",
             "repo": "Mythic",
-            "stars": 4728,
+            "stars": 4729,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -188,7 +188,7 @@
             "open_issues": 225,
             "owner": "BishopFox",
             "repo": "sliver",
-            "stars": 11743,
+            "stars": 11744,
             "topics": [
               "adversarial-attacks",
               "adversary-simulation",
@@ -231,7 +231,7 @@
             "open_issues": 271,
             "owner": "kgretzky",
             "repo": "evilginx2",
-            "stars": 15543,
+            "stars": 15545,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -501,7 +501,7 @@
             "open_issues": 62,
             "owner": "google",
             "repo": "cadvisor",
-            "stars": 19385,
+            "stars": 19386,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -528,7 +528,7 @@
             "open_issues": 914,
             "owner": "traefik",
             "repo": "traefik",
-            "stars": 64639,
+            "stars": 64644,
             "topics": [
               "consul",
               "docker",
@@ -632,7 +632,7 @@
             "open_issues": 13,
             "owner": "jakejarvis",
             "repo": "awesome-shodan-queries",
-            "stars": 7679,
+            "stars": 7680,
             "topics": [
               "awesome",
               "awesome-list",
@@ -743,7 +743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:34:04.009Z",
+    "last_updated": "2026-08-29T12:43:48.718Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of fascinating and bizarre Censys Search Queries ",
@@ -755,7 +755,7 @@
       "open_issues": 2,
       "owner": "thehappydinoa",
       "repo": "awesome-censys-queries",
-      "stars": 1239,
+      "stars": 1240,
       "topics": [
         "awesome",
         "awesome-list",

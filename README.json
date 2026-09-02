@@ -184,11 +184,11 @@
             "id": 166304026,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-31T19:40:55Z",
-            "open_issues": 227,
+            "last_commit": "2026-09-01T23:23:20Z",
+            "open_issues": 229,
             "owner": "BishopFox",
             "repo": "sliver",
-            "stars": 11768,
+            "stars": 11770,
             "topics": [
               "adversarial-attacks",
               "adversary-simulation",
@@ -228,10 +228,10 @@
             "language": "Go",
             "license": "BSD-3-Clause",
             "last_commit": "2026-06-10T12:12:03Z",
-            "open_issues": 271,
+            "open_issues": 270,
             "owner": "kgretzky",
             "repo": "evilginx2",
-            "stars": 15559,
+            "stars": 15566,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -408,7 +408,7 @@
             "open_issues": 177,
             "owner": "n1nj4sec",
             "repo": "pupy",
-            "stars": 9000,
+            "stars": 8999,
             "topics": [
               "android",
               "backdoor",
@@ -453,7 +453,7 @@
             "open_issues": 29,
             "owner": "lgandx",
             "repo": "Responder",
-            "stars": 6568,
+            "stars": 6574,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -474,7 +474,7 @@
             "open_issues": 29,
             "owner": "lgandx",
             "repo": "Responder",
-            "stars": 6568,
+            "stars": 6574,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -497,11 +497,11 @@
             "id": 20653934,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-07-20T21:23:51Z",
-            "open_issues": 62,
+            "last_commit": "2026-09-02T07:22:06Z",
+            "open_issues": 63,
             "owner": "google",
             "repo": "cadvisor",
-            "stars": 19391,
+            "stars": 19392,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -524,11 +524,11 @@
             "id": 42408804,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-01T09:54:07Z",
-            "open_issues": 909,
+            "last_commit": "2026-09-01T15:32:06Z",
+            "open_issues": 912,
             "owner": "traefik",
             "repo": "traefik",
-            "stars": 64696,
+            "stars": 64710,
             "topics": [
               "consul",
               "docker",
@@ -593,7 +593,7 @@
             "id": 4117355,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-31T15:41:51Z",
+            "last_commit": "2026-09-01T21:45:46Z",
             "open_issues": 164,
             "owner": "mongo-express",
             "repo": "mongo-express",
@@ -632,7 +632,7 @@
             "open_issues": 13,
             "owner": "jakejarvis",
             "repo": "awesome-shodan-queries",
-            "stars": 7684,
+            "stars": 7691,
             "topics": [
               "awesome",
               "awesome-list",
@@ -743,7 +743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T11:44:53.583Z",
+    "last_updated": "2026-09-02T11:26:04.089Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of fascinating and bizarre Censys Search Queries ",

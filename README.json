@@ -19,7 +19,7 @@
             "open_issues": 21,
             "owner": "Ne0nd0g",
             "repo": "merlin",
-            "stars": 5600,
+            "stars": 5599,
             "topics": [
               "agent",
               "c2",
@@ -53,7 +53,7 @@
             "open_issues": 46,
             "owner": "its-a-feature",
             "repo": "Mythic",
-            "stars": 4739,
+            "stars": 4745,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -80,7 +80,7 @@
             "open_issues": 25,
             "owner": "DeimosC2",
             "repo": "DeimosC2",
-            "stars": 1160,
+            "stars": 1159,
             "topics": [
               "c2",
               "doh",
@@ -117,7 +117,7 @@
             "open_issues": 89,
             "owner": "cobbr",
             "repo": "Covenant",
-            "stars": 4731,
+            "stars": 4732,
             "topics": [
               "c2",
               "covenant",
@@ -184,11 +184,11 @@
             "id": 166304026,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-03T05:27:11Z",
-            "open_issues": 229,
+            "last_commit": "2026-09-04T00:14:04Z",
+            "open_issues": 222,
             "owner": "BishopFox",
             "repo": "sliver",
-            "stars": 11771,
+            "stars": 11776,
             "topics": [
               "adversarial-attacks",
               "adversary-simulation",
@@ -231,7 +231,7 @@
             "open_issues": 271,
             "owner": "kgretzky",
             "repo": "evilginx2",
-            "stars": 15569,
+            "stars": 15570,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -333,7 +333,7 @@
             "open_issues": 25,
             "owner": "DeimosC2",
             "repo": "DeimosC2",
-            "stars": 1160,
+            "stars": 1159,
             "topics": [
               "c2",
               "doh",
@@ -453,7 +453,7 @@
             "open_issues": 29,
             "owner": "lgandx",
             "repo": "Responder",
-            "stars": 6576,
+            "stars": 6577,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -474,7 +474,7 @@
             "open_issues": 29,
             "owner": "lgandx",
             "repo": "Responder",
-            "stars": 6576,
+            "stars": 6577,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -501,7 +501,7 @@
             "open_issues": 63,
             "owner": "google",
             "repo": "cadvisor",
-            "stars": 19394,
+            "stars": 19399,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -524,11 +524,11 @@
             "id": 42408804,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-03T09:40:07Z",
-            "open_issues": 909,
+            "last_commit": "2026-09-04T09:40:28Z",
+            "open_issues": 902,
             "owner": "traefik",
             "repo": "traefik",
-            "stars": 64726,
+            "stars": 64739,
             "topics": [
               "consul",
               "docker",
@@ -593,8 +593,8 @@
             "id": 4117355,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T10:10:05Z",
-            "open_issues": 166,
+            "last_commit": "2026-09-03T17:04:09Z",
+            "open_issues": 164,
             "owner": "mongo-express",
             "repo": "mongo-express",
             "stars": 5984,
@@ -632,7 +632,7 @@
             "open_issues": 13,
             "owner": "jakejarvis",
             "repo": "awesome-shodan-queries",
-            "stars": 7697,
+            "stars": 7700,
             "topics": [
               "awesome",
               "awesome-list",
@@ -670,7 +670,7 @@
             "open_issues": 15,
             "owner": "salesforce",
             "repo": "jarm",
-            "stars": 1317,
+            "stars": 1318,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -691,7 +691,7 @@
             "open_issues": 3,
             "owner": "woj-ciech",
             "repo": "Kamerka-GUI",
-            "stars": 867,
+            "stars": 866,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -743,7 +743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T11:22:02.647Z",
+    "last_updated": "2026-09-04T11:25:18.360Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of fascinating and bizarre Censys Search Queries ",

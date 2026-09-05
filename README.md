@@ -324,7 +324,7 @@ same_service(port: 7443 and tls.certificates.leaf_data.subject.organization: "My
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/its-a-feature/Mythic> ⭐ 4,745 | 🐛 46 | 🌐 JavaScript | 📅 2026-08-31
+* <https://github.com/its-a-feature/Mythic> ⭐ 4,747 | 🐛 46 | 🌐 JavaScript | 📅 2026-08-31
 * <https://michaelkoczwara.medium.com/hunting-c2-with-shodan-223ca250d06f>
 
 </details>
@@ -395,7 +395,7 @@ same_service(
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/BishopFox/sliver> ⭐ 11,776 | 🐛 222 | 🌐 Go | 📅 2026-09-04
+* <https://github.com/BishopFox/sliver> ⭐ 11,778 | 🐛 221 | 🌐 Go | 📅 2026-09-04
 
 </details>
 
@@ -408,7 +408,7 @@ services.jarm.fingerprint: "20d14d20d21d20d20c20d14d20d20daddf8a68a1444c74b6dbe0
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/kgretzky/evilginx2> ⭐ 15,570 | 🐛 271 | 🌐 Go | 📅 2026-06-10
+* <https://github.com/kgretzky/evilginx2> ⭐ 15,578 | 🐛 271 | 🌐 Go | 📅 2026-06-10
 
 </details>
 
@@ -640,8 +640,8 @@ services.banner="HTTP/1.1 401 Unauthorized\r\nServer: Microsoft-IIS/7.5\r\nDate:
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/lgandx/Responder> ⭐ 6,577 | 🐛 29 | 🌐 Python | 📅 2026-06-10
-* <https://github.com/lgandx/Responder/blob/07c963f5ea52e27977ef603de180d446d009ed41/tools/MultiRelay/RelayMultiPackets.py#L93> ⭐ 6,577 | 🐛 29 | 🌐 Python | 📅 2026-06-10
+* <https://github.com/lgandx/Responder> ⭐ 6,580 | 🐛 29 | 🌐 Python | 📅 2026-06-10
+* <https://github.com/lgandx/Responder/blob/07c963f5ea52e27977ef603de180d446d009ed41/tools/MultiRelay/RelayMultiPackets.py#L93> ⭐ 6,580 | 🐛 29 | 🌐 Python | 📅 2026-06-10
 
 </details>
 
@@ -708,7 +708,7 @@ same_service(services.http.response.html_title=`cAdvisor - /` and services.http.
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/google/cadvisor> ⭐ 19,399 | 🐛 63 | 🌐 Go | 📅 2026-09-02
+* <https://github.com/google/cadvisor> ⭐ 19,405 | 🐛 62 | 🌐 Go | 📅 2026-09-02
 
 </details>
 
@@ -753,7 +753,7 @@ same_service(services.http.request.uri: "*/dashboard/" and services.http.respons
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/traefik/traefik> ⭐ 64,739 | 🐛 902 | 🌐 Go | 📅 2026-09-04
+* <https://github.com/traefik/traefik> ⭐ 64,745 | 🐛 902 | 🌐 Go | 📅 2026-09-04
 
 </details>
 
@@ -1040,7 +1040,7 @@ not same_service(services.port: 443 and services.name: UNKNOWN and services.tls.
 
 ## Credits
 
-* [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,700 | 🐛 13 | 📅 2024-05-27
+* [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,701 | 🐛 13 | 📅 2024-05-27
 * [salesforce/jarm](https://github.com/salesforce/jarm) ⭐ 1,318 | 🐛 15 | 🌐 Python | 📅 2026-08-13
 * [woj-ciech/Kamerka-GUI](https://github.com/woj-ciech/Kamerka-GUI) ⭐ 866 | 🐛 3 | 🌐 CSS | 📅 2026-06-07
 * [cedowens/C2-JARM](https://github.com/cedowens/C2-JARM) ⭐ 143 | 🐛 1 | 📅 2023-04-20
@@ -1059,4 +1059,4 @@ not same_service(services.port: 443 and services.name: UNKNOWN and services.tls.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

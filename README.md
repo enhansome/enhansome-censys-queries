@@ -324,7 +324,7 @@ same_service(port: 7443 and tls.certificates.leaf_data.subject.organization: "My
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/its-a-feature/Mythic> ⭐ 4,750 | 🐛 47 | 🌐 JavaScript | 📅 2026-09-07
+* <https://github.com/its-a-feature/Mythic> ⭐ 4,749 | 🐛 47 | 🌐 JavaScript | 📅 2026-09-07
 * <https://michaelkoczwara.medium.com/hunting-c2-with-shodan-223ca250d06f>
 
 </details>
@@ -354,7 +354,7 @@ same_service(
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/cobbr/Covenant> ⭐ 4,733 | 🐛 89 | 🌐 C# | 📅 2024-07-18
+* <https://github.com/cobbr/Covenant> ⭐ 4,734 | 🐛 89 | 🌐 C# | 📅 2024-07-18
 
 </details>
 
@@ -395,7 +395,7 @@ same_service(
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/BishopFox/sliver> ⭐ 11,796 | 🐛 226 | 🌐 Go | 📅 2026-09-07
+* <https://github.com/BishopFox/sliver> ⭐ 11,803 | 🐛 227 | 🌐 Go | 📅 2026-09-09
 
 </details>
 
@@ -408,7 +408,7 @@ services.jarm.fingerprint: "20d14d20d21d20d20c20d14d20d20daddf8a68a1444c74b6dbe0
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/kgretzky/evilginx2> ⭐ 15,598 | 🐛 271 | 🌐 Go | 📅 2026-06-10
+* <https://github.com/kgretzky/evilginx2> ⭐ 15,605 | 🐛 269 | 🌐 Go | 📅 2026-06-10
 
 </details>
 
@@ -640,8 +640,8 @@ services.banner="HTTP/1.1 401 Unauthorized\r\nServer: Microsoft-IIS/7.5\r\nDate:
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/lgandx/Responder> ⭐ 6,581 | 🐛 29 | 🌐 Python | 📅 2026-06-10
-* <https://github.com/lgandx/Responder/blob/07c963f5ea52e27977ef603de180d446d009ed41/tools/MultiRelay/RelayMultiPackets.py#L93> ⭐ 6,581 | 🐛 29 | 🌐 Python | 📅 2026-06-10
+* <https://github.com/lgandx/Responder> ⭐ 6,582 | 🐛 29 | 🌐 Python | 📅 2026-06-10
+* <https://github.com/lgandx/Responder/blob/07c963f5ea52e27977ef603de180d446d009ed41/tools/MultiRelay/RelayMultiPackets.py#L93> ⭐ 6,582 | 🐛 29 | 🌐 Python | 📅 2026-06-10
 
 </details>
 
@@ -708,7 +708,7 @@ same_service(services.http.response.html_title=`cAdvisor - /` and services.http.
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/google/cadvisor> ⭐ 19,408 | 🐛 63 | 🌐 Go | 📅 2026-09-02
+* <https://github.com/google/cadvisor> ⭐ 19,408 | 🐛 64 | 🌐 Go | 📅 2026-09-09
 
 </details>
 
@@ -753,7 +753,7 @@ same_service(services.http.request.uri: "*/dashboard/" and services.http.respons
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/traefik/traefik> ⭐ 64,785 | 🐛 920 | 🌐 Go | 📅 2026-09-08
+* <https://github.com/traefik/traefik> ⭐ 64,793 | 🐛 920 | 🌐 Go | 📅 2026-09-09
 
 </details>
 
@@ -890,7 +890,7 @@ services.http.response.html_title: "Home - Mongo Express"
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/mongo-express/mongo-express> ⭐ 5,984 | 🐛 164 | 🌐 JavaScript | 📅 2026-09-07
+* <https://github.com/mongo-express/mongo-express> ⭐ 5,985 | 🐛 164 | 🌐 JavaScript | 📅 2026-09-08
 
 </details>
 
@@ -1040,10 +1040,10 @@ not same_service(services.port: 443 and services.name: UNKNOWN and services.tls.
 
 ## Credits
 
-* [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,705 | 🐛 13 | 📅 2024-05-27
-* [salesforce/jarm](https://github.com/salesforce/jarm) ⭐ 1,319 | 🐛 15 | 🌐 Python | 📅 2026-08-13
+* [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,708 | 🐛 13 | 📅 2024-05-27
+* [salesforce/jarm](https://github.com/salesforce/jarm) ⭐ 1,321 | 🐛 15 | 🌐 Python | 📅 2026-08-13
 * [woj-ciech/Kamerka-GUI](https://github.com/woj-ciech/Kamerka-GUI) ⭐ 866 | 🐛 3 | 🌐 CSS | 📅 2026-06-07
-* [cedowens/C2-JARM](https://github.com/cedowens/C2-JARM) ⭐ 143 | 🐛 1 | 📅 2023-04-20
+* [cedowens/C2-JARM](https://github.com/cedowens/C2-JARM) ⭐ 144 | 🐛 1 | 📅 2023-04-20
 * [emilyaustin/censys-resources](https://github.com/emilyaustin/censys-resources) ⭐ 3 | 🐛 0 | 📅 2022-08-08
 * [drb-ra](https://github.com/drb-ra)
 * [The State of SSL/TLS Certificate Usage in Malware C\&C Communications](https://www.trendmicro.com/content/dam/trendmicro/global/en/research/21/i/ssl-tls-technical-brief/ssl-tls-technical-brief.pdf)
@@ -1059,4 +1059,4 @@ not same_service(services.port: 443 and services.name: UNKNOWN and services.tls.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._

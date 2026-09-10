@@ -2,8 +2,8 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/thehappydinoa/awesome-censys-queries/main.svg)](https://results.pre-commit.ci/latest/github/thehappydinoa/awesome-censys-queries/main)
-[![GitHub contributors](https://img.shields.io/github/contributors/thehappydinoa/awesome-censys-queries)](https://github.com/thehappydinoa/awesome-censys-queries/graphs/contributors) ⭐ 1,241 | 🐛 2 | 🌐 Python | 📅 2026-07-20
-[![GitHub Repo stars](https://img.shields.io/github/stars/thehappydinoa/awesome-censys-queries)](https://github.com/thehappydinoa/awesome-censys-queries/stargazers) ⭐ 1,241 | 🐛 2 | 🌐 Python | 📅 2026-07-20
+[![GitHub contributors](https://img.shields.io/github/contributors/thehappydinoa/awesome-censys-queries)](https://github.com/thehappydinoa/awesome-censys-queries/graphs/contributors) ⭐ 1,240 | 🐛 2 | 🌐 Python | 📅 2026-07-20
+[![GitHub Repo stars](https://img.shields.io/github/stars/thehappydinoa/awesome-censys-queries)](https://github.com/thehappydinoa/awesome-censys-queries/stargazers) ⭐ 1,240 | 🐛 2 | 🌐 Python | 📅 2026-07-20
 [![License](https://img.shields.io/github/license/thehappydinoa/awesome-censys-queries)](#license)
 ![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fthehappydinoa%2Fawesome-censys-queries)
 
@@ -17,7 +17,7 @@ A collection of fascinating and bizarre [Censys Search](https://search.censys.io
 
 ## Contributing
 
-Found an awesome query? [Submit it here](https://github.com/thehappydinoa/awesome-censys-queries/issues/new?assignees=thehappydinoa\&labels=query+submissions\&template=query-submission.md\&title=) ⭐ 1,241 | 🐛 2 | 🌐 Python | 📅 2026-07-20
+Found an awesome query? [Submit it here](https://github.com/thehappydinoa/awesome-censys-queries/issues/new?assignees=thehappydinoa\&labels=query+submissions\&template=query-submission.md\&title=) ⭐ 1,240 | 🐛 2 | 🌐 Python | 📅 2026-07-20
 
 Interested in contributing in another way? [See the contributing guidelines](CONTRIBUTING.md)
 
@@ -25,7 +25,7 @@ Interested in contributing in another way? [See the contributing guidelines](CON
 
 * [Censys Search](https://search.censys.io?ref=awesome-censys-queries)
 * [CensysGPT Beta - AI Generated Queries](https://gpt.censys.io?utm_source=github\&utm_medium=awesome-censys-queries\&utm_campaign=awesome-censys-queries)
-* [Legacy Search Queries](https://github.com/thehappydinoa/awesome-censys-queries/tree/legacy-search-queries) ⭐ 1,241 | 🐛 2 | 🌐 Python | 📅 2026-07-20 - For queries compatible with the legacy Censys search syntax
+* [Legacy Search Queries](https://github.com/thehappydinoa/awesome-censys-queries/tree/legacy-search-queries) ⭐ 1,240 | 🐛 2 | 🌐 Python | 📅 2026-07-20 - For queries compatible with the legacy Censys search syntax
 
 ## Key
 
@@ -309,7 +309,7 @@ services.jarm.fingerprint: "29d21b20d29d29d21c41d21b21b41d494e0df9532e75299f15ba
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/Ne0nd0g/merlin> ⭐ 5,600 | 🐛 21 | 🌐 Go | 📅 2025-04-17
+* <https://github.com/Ne0nd0g/merlin> ⭐ 5,601 | 🐛 21 | 🌐 Go | 📅 2025-04-17
 
 </details>
 
@@ -324,7 +324,7 @@ same_service(port: 7443 and tls.certificates.leaf_data.subject.organization: "My
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/its-a-feature/Mythic> ⭐ 4,749 | 🐛 47 | 🌐 JavaScript | 📅 2026-09-07
+* <https://github.com/its-a-feature/Mythic> ⭐ 4,748 | 🐛 47 | 🌐 JavaScript | 📅 2026-09-07
 * <https://michaelkoczwara.medium.com/hunting-c2-with-shodan-223ca250d06f>
 
 </details>
@@ -395,7 +395,7 @@ same_service(
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/BishopFox/sliver> ⭐ 11,803 | 🐛 227 | 🌐 Go | 📅 2026-09-09
+* <https://github.com/BishopFox/sliver> ⭐ 11,808 | 🐛 230 | 🌐 Go | 📅 2026-09-10
 
 </details>
 
@@ -408,7 +408,7 @@ services.jarm.fingerprint: "20d14d20d21d20d20c20d14d20d20daddf8a68a1444c74b6dbe0
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/kgretzky/evilginx2> ⭐ 15,605 | 🐛 269 | 🌐 Go | 📅 2026-06-10
+* <https://github.com/kgretzky/evilginx2> ⭐ 15,610 | 🐛 269 | 🌐 Go | 📅 2026-06-10
 
 </details>
 
@@ -464,7 +464,7 @@ services.http.response.headers.Server: "NimPlant C2 Server" or services.http.res
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/chvancooten/NimPlant> ⭐ 952 | 🐛 4 | 🌐 Rust | 📅 2026-03-02
+* <https://github.com/chvancooten/NimPlant> ⭐ 953 | 🐛 4 | 🌐 Rust | 📅 2026-03-02
 * <https://twitter.com/chvancooten/status/1629911090774589442>
 
 </details>
@@ -640,8 +640,8 @@ services.banner="HTTP/1.1 401 Unauthorized\r\nServer: Microsoft-IIS/7.5\r\nDate:
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/lgandx/Responder> ⭐ 6,582 | 🐛 29 | 🌐 Python | 📅 2026-06-10
-* <https://github.com/lgandx/Responder/blob/07c963f5ea52e27977ef603de180d446d009ed41/tools/MultiRelay/RelayMultiPackets.py#L93> ⭐ 6,582 | 🐛 29 | 🌐 Python | 📅 2026-06-10
+* <https://github.com/lgandx/Responder> ⭐ 6,583 | 🐛 30 | 🌐 Python | 📅 2026-06-10
+* <https://github.com/lgandx/Responder/blob/07c963f5ea52e27977ef603de180d446d009ed41/tools/MultiRelay/RelayMultiPackets.py#L93> ⭐ 6,583 | 🐛 30 | 🌐 Python | 📅 2026-06-10
 
 </details>
 
@@ -708,7 +708,7 @@ same_service(services.http.response.html_title=`cAdvisor - /` and services.http.
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/google/cadvisor> ⭐ 19,408 | 🐛 64 | 🌐 Go | 📅 2026-09-09
+* <https://github.com/google/cadvisor> ⭐ 19,412 | 🐛 65 | 🌐 Go | 📅 2026-09-09
 
 </details>
 
@@ -753,7 +753,7 @@ same_service(services.http.request.uri: "*/dashboard/" and services.http.respons
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/traefik/traefik> ⭐ 64,793 | 🐛 920 | 🌐 Go | 📅 2026-09-09
+* <https://github.com/traefik/traefik> ⭐ 64,802 | 🐛 923 | 🌐 Go | 📅 2026-09-10
 
 </details>
 
@@ -890,7 +890,7 @@ services.http.response.html_title: "Home - Mongo Express"
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/mongo-express/mongo-express> ⭐ 5,985 | 🐛 164 | 🌐 JavaScript | 📅 2026-09-08
+* <https://github.com/mongo-express/mongo-express> ⭐ 5,985 | 🐛 164 | 🌐 JavaScript | 📅 2026-09-10
 
 </details>
 
@@ -1040,7 +1040,7 @@ not same_service(services.port: 443 and services.name: UNKNOWN and services.tls.
 
 ## Credits
 
-* [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,708 | 🐛 13 | 📅 2024-05-27
+* [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,711 | 🐛 13 | 📅 2024-05-27
 * [salesforce/jarm](https://github.com/salesforce/jarm) ⭐ 1,321 | 🐛 15 | 🌐 Python | 📅 2026-08-13
 * [woj-ciech/Kamerka-GUI](https://github.com/woj-ciech/Kamerka-GUI) ⭐ 866 | 🐛 3 | 🌐 CSS | 📅 2026-06-07
 * [cedowens/C2-JARM](https://github.com/cedowens/C2-JARM) ⭐ 144 | 🐛 1 | 📅 2023-04-20
@@ -1059,4 +1059,4 @@ not same_service(services.port: 443 and services.name: UNKNOWN and services.tls.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._

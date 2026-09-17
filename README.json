@@ -19,7 +19,7 @@
             "open_issues": 21,
             "owner": "Ne0nd0g",
             "repo": "merlin",
-            "stars": 5605,
+            "stars": 5604,
             "topics": [
               "agent",
               "c2",
@@ -53,7 +53,7 @@
             "open_issues": 47,
             "owner": "its-a-feature",
             "repo": "Mythic",
-            "stars": 4764,
+            "stars": 4766,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -80,7 +80,7 @@
             "open_issues": 25,
             "owner": "DeimosC2",
             "repo": "DeimosC2",
-            "stars": 1161,
+            "stars": 1160,
             "topics": [
               "c2",
               "doh",
@@ -117,7 +117,7 @@
             "open_issues": 89,
             "owner": "cobbr",
             "repo": "Covenant",
-            "stars": 4738,
+            "stars": 4736,
             "topics": [
               "c2",
               "covenant",
@@ -150,7 +150,7 @@
             "open_issues": 25,
             "owner": "nettitude",
             "repo": "PoshC2",
-            "stars": 2135,
+            "stars": 2134,
             "topics": [
               "c2",
               "csharp",
@@ -188,7 +188,7 @@
             "open_issues": 221,
             "owner": "BishopFox",
             "repo": "sliver",
-            "stars": 11843,
+            "stars": 11849,
             "topics": [
               "adversarial-attacks",
               "adversary-simulation",
@@ -231,7 +231,7 @@
             "open_issues": 269,
             "owner": "kgretzky",
             "repo": "evilginx2",
-            "stars": 15641,
+            "stars": 15637,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -285,7 +285,7 @@
             "open_issues": 0,
             "owner": "wikiZ",
             "repo": "RedGuard",
-            "stars": 1570,
+            "stars": 1569,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -306,7 +306,7 @@
             "open_issues": 0,
             "owner": "wikiZ",
             "repo": "RedGuard",
-            "stars": 1570,
+            "stars": 1569,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -333,7 +333,7 @@
             "open_issues": 25,
             "owner": "DeimosC2",
             "repo": "DeimosC2",
-            "stars": 1161,
+            "stars": 1160,
             "topics": [
               "c2",
               "doh",
@@ -370,7 +370,7 @@
             "open_issues": 25,
             "owner": "nettitude",
             "repo": "PoshC2",
-            "stars": 2135,
+            "stars": 2134,
             "topics": [
               "c2",
               "csharp",
@@ -408,7 +408,7 @@
             "open_issues": 177,
             "owner": "n1nj4sec",
             "repo": "pupy",
-            "stars": 9000,
+            "stars": 9001,
             "topics": [
               "android",
               "backdoor",
@@ -453,7 +453,7 @@
             "open_issues": 30,
             "owner": "lgandx",
             "repo": "Responder",
-            "stars": 6587,
+            "stars": 6588,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -474,7 +474,7 @@
             "open_issues": 30,
             "owner": "lgandx",
             "repo": "Responder",
-            "stars": 6587,
+            "stars": 6588,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -501,7 +501,7 @@
             "open_issues": 66,
             "owner": "google",
             "repo": "cadvisor",
-            "stars": 19426,
+            "stars": 19430,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -524,11 +524,11 @@
             "id": 42408804,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-15T09:34:14Z",
-            "open_issues": 929,
+            "last_commit": "2026-09-17T09:40:06Z",
+            "open_issues": 935,
             "owner": "traefik",
             "repo": "traefik",
-            "stars": 64861,
+            "stars": 64876,
             "topics": [
               "consul",
               "docker",
@@ -632,7 +632,7 @@
             "open_issues": 13,
             "owner": "jakejarvis",
             "repo": "awesome-shodan-queries",
-            "stars": 7728,
+            "stars": 7729,
             "topics": [
               "awesome",
               "awesome-list",
@@ -743,7 +743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T11:44:24.133Z",
+    "last_updated": "2026-09-17T11:48:53.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of fascinating and bizarre Censys Search Queries ",

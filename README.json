@@ -19,7 +19,7 @@
             "open_issues": 20,
             "owner": "Ne0nd0g",
             "repo": "merlin",
-            "stars": 5608,
+            "stars": 5610,
             "topics": [
               "agent",
               "c2",
@@ -53,7 +53,7 @@
             "open_issues": 51,
             "owner": "its-a-feature",
             "repo": "Mythic",
-            "stars": 4780,
+            "stars": 4781,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -117,7 +117,7 @@
             "open_issues": 90,
             "owner": "cobbr",
             "repo": "Covenant",
-            "stars": 4736,
+            "stars": 4739,
             "topics": [
               "c2",
               "covenant",
@@ -150,7 +150,7 @@
             "open_issues": 25,
             "owner": "nettitude",
             "repo": "PoshC2",
-            "stars": 2134,
+            "stars": 2135,
             "topics": [
               "c2",
               "csharp",
@@ -188,7 +188,7 @@
             "open_issues": 227,
             "owner": "BishopFox",
             "repo": "sliver",
-            "stars": 11877,
+            "stars": 11886,
             "topics": [
               "adversarial-attacks",
               "adversary-simulation",
@@ -231,7 +231,7 @@
             "open_issues": 267,
             "owner": "kgretzky",
             "repo": "evilginx2",
-            "stars": 15666,
+            "stars": 15669,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -285,7 +285,7 @@
             "open_issues": 0,
             "owner": "wikiZ",
             "repo": "RedGuard",
-            "stars": 1570,
+            "stars": 1571,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -306,7 +306,7 @@
             "open_issues": 0,
             "owner": "wikiZ",
             "repo": "RedGuard",
-            "stars": 1570,
+            "stars": 1571,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -370,7 +370,7 @@
             "open_issues": 25,
             "owner": "nettitude",
             "repo": "PoshC2",
-            "stars": 2134,
+            "stars": 2135,
             "topics": [
               "c2",
               "csharp",
@@ -453,7 +453,7 @@
             "open_issues": 30,
             "owner": "lgandx",
             "repo": "Responder",
-            "stars": 6599,
+            "stars": 6601,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -474,7 +474,7 @@
             "open_issues": 30,
             "owner": "lgandx",
             "repo": "Responder",
-            "stars": 6599,
+            "stars": 6601,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -498,10 +498,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-09-18T22:43:49Z",
-            "open_issues": 65,
+            "open_issues": 66,
             "owner": "google",
             "repo": "cadvisor",
-            "stars": 19437,
+            "stars": 19440,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -524,11 +524,11 @@
             "id": 42408804,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-23T10:00:06Z",
-            "open_issues": 938,
+            "last_commit": "2026-09-24T08:38:06Z",
+            "open_issues": 936,
             "owner": "traefik",
             "repo": "traefik",
-            "stars": 64934,
+            "stars": 64947,
             "topics": [
               "consul",
               "docker",
@@ -632,7 +632,7 @@
             "open_issues": 13,
             "owner": "jakejarvis",
             "repo": "awesome-shodan-queries",
-            "stars": 7746,
+            "stars": 7748,
             "topics": [
               "awesome",
               "awesome-list",
@@ -743,7 +743,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T11:46:00.519Z",
+    "last_updated": "2026-09-24T11:54:37.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of fascinating and bizarre Censys Search Queries ",

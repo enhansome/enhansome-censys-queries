@@ -4,614 +4,784 @@
       "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Ne0nd0g/merlin",
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Ne0nd0g/merlin",
+                      "description": "Ne0nd0g/merlin",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang.",
+                        "homepage": null,
+                        "id": 78200488,
+                        "language": "Go",
+                        "license": "GPL-3.0",
+                        "last_commit": "2025-04-17T15:08:42Z",
+                        "open_issues": 20,
+                        "owner": "Ne0nd0g",
+                        "repo": "merlin",
+                        "stars": 5608,
+                        "topics": [
+                          "agent",
+                          "c2",
+                          "command-and-control",
+                          "golang",
+                          "http2",
+                          "post-exploitation"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T18:47:41.803Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "References"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Merlin C2 🔎 →"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "its-a-feature/Mythic",
+                      "description": "its-a-feature/Mythic",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "A collaborative, multi-platform, red teaming framework",
+                        "homepage": null,
+                        "id": 139783546,
+                        "language": "JavaScript",
+                        "license": "NOASSERTION",
+                        "last_commit": "2026-09-27T20:23:10Z",
+                        "open_issues": 52,
+                        "owner": "its-a-feature",
+                        "repo": "Mythic",
+                        "stars": 4806,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T18:47:41.803Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "References"
+                }
+              ],
+              "description": "Note: When using the operator, the initial prefix is optional.",
+              "node_type": "group",
+              "title": "Mythic C2 🔎 →"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "DeimosC2/DeimosC2",
+                      "description": "DeimosC2/DeimosC2",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "DeimosC2 is a Golang command and control framework for post-exploitation.",
+                        "homepage": null,
+                        "id": 276189496,
+                        "language": "Vue",
+                        "license": "MIT",
+                        "last_commit": "2025-04-17T17:49:44Z",
+                        "open_issues": 25,
+                        "owner": "DeimosC2",
+                        "repo": "DeimosC2",
+                        "stars": 1163,
+                        "topics": [
+                          "c2",
+                          "doh",
+                          "golang",
+                          "hacktoberfest",
+                          "https",
+                          "infosec",
+                          "quic",
+                          "red-team",
+                          "security-tools"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T18:47:41.803Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "References"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Deimos C2 🔎 →"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "cobbr/Covenant",
+                      "description": "cobbr/Covenant",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Covenant is a collaborative .NET C2 framework for red teamers.",
+                        "homepage": "https://cobbr.io/Covenant.html",
+                        "id": 169597853,
+                        "language": "C#",
+                        "license": "GPL-3.0",
+                        "last_commit": "2024-07-18T17:25:35Z",
+                        "open_issues": 90,
+                        "owner": "cobbr",
+                        "repo": "Covenant",
+                        "stars": 4738,
+                        "topics": [
+                          "c2",
+                          "covenant",
+                          "dotnet",
+                          "dotnet-core",
+                          "red-team"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T18:47:41.803Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "References"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Covenant C2 🔎 →"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "nettitude/PoshC2",
+                      "description": "nettitude/PoshC2",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement.",
+                        "homepage": null,
+                        "id": 141987967,
+                        "language": "PowerShell",
+                        "license": "BSD-3-Clause",
+                        "last_commit": "2025-11-20T13:55:21Z",
+                        "open_issues": 25,
+                        "owner": "nettitude",
+                        "repo": "PoshC2",
+                        "stars": 2138,
+                        "topics": [
+                          "c2",
+                          "csharp",
+                          "nettitude",
+                          "payloads",
+                          "poshc2",
+                          "poshc2-installation",
+                          "powershell",
+                          "proxy-aware",
+                          "python3",
+                          "redteam"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T18:47:41.803Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "References"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "PoshC2 🔎 →"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "BishopFox/sliver",
+                      "description": "BishopFox/sliver",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Adversary Emulation Framework",
+                        "homepage": null,
+                        "id": 166304026,
+                        "language": "Go",
+                        "license": "GPL-3.0",
+                        "last_commit": "2026-10-03T01:00:45Z",
+                        "open_issues": 230,
+                        "owner": "BishopFox",
+                        "repo": "sliver",
+                        "stars": 11954,
+                        "topics": [
+                          "adversarial-attacks",
+                          "adversary-simulation",
+                          "c2",
+                          "command-and-control",
+                          "dns",
+                          "dns-server",
+                          "golang",
+                          "gplv3",
+                          "http",
+                          "implant",
+                          "red-team",
+                          "red-team-engagement",
+                          "red-teaming",
+                          "security-tools",
+                          "sliver"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T18:47:41.803Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "References"
+                }
+              ],
+              "description": "Note: This search uses regex and requires a paid account. Pro-Tip: Try removing JARM to find even more Sliver instances.",
+              "node_type": "group",
+              "title": "Sliver C2 🔎 →"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "kgretzky/evilginx2",
+                      "description": "kgretzky/evilginx2",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+                        "homepage": null,
+                        "id": 140412864,
+                        "language": "Go",
+                        "license": "BSD-3-Clause",
+                        "last_commit": "2026-06-10T12:12:03Z",
+                        "open_issues": 266,
+                        "owner": "kgretzky",
+                        "repo": "evilginx2",
+                        "stars": 15683,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T18:47:41.803Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "References"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "EvilGinx2 🔎 →"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "chvancooten/NimPlant",
+                      "description": "chvancooten/NimPlant",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "A light-weight first-stage C2 implant written in Nim (and Rust).",
+                        "homepage": null,
+                        "id": 601157008,
+                        "language": "Rust",
+                        "license": "MIT",
+                        "last_commit": "2026-03-02T10:59:25Z",
+                        "open_issues": 4,
+                        "owner": "chvancooten",
+                        "repo": "NimPlant",
+                        "stars": 953,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T18:47:41.803Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "References"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "NimPlant C2 🔎 →"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "wikiZ/RedGuard",
+                      "description": "wikiZ/RedGuard",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "RedGuard is a C2 front flow control tool,Can avoid Blue Teams,AVs,EDRs check.",
+                        "homepage": null,
+                        "id": 489841047,
+                        "language": "Go",
+                        "license": "GPL-2.0",
+                        "last_commit": "2024-08-20T17:43:35Z",
+                        "open_issues": 0,
+                        "owner": "wikiZ",
+                        "repo": "RedGuard",
+                        "stars": 1569,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T18:47:41.803Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "wikiZ/RedGuard",
+                      "description": "wikiZ/RedGuard",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "RedGuard is a C2 front flow control tool,Can avoid Blue Teams,AVs,EDRs check.",
+                        "homepage": null,
+                        "id": 489841047,
+                        "language": "Go",
+                        "license": "GPL-2.0",
+                        "last_commit": "2024-08-20T17:43:35Z",
+                        "open_issues": 0,
+                        "owner": "wikiZ",
+                        "repo": "RedGuard",
+                        "stars": 1569,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T18:47:41.803Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "References"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "RedGuard 🔎 →"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "DeimosC2/DeimosC2",
+                      "description": "DeimosC2/DeimosC2",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "DeimosC2 is a Golang command and control framework for post-exploitation.",
+                        "homepage": null,
+                        "id": 276189496,
+                        "language": "Vue",
+                        "license": "MIT",
+                        "last_commit": "2025-04-17T17:49:44Z",
+                        "open_issues": 25,
+                        "owner": "DeimosC2",
+                        "repo": "DeimosC2",
+                        "stars": 1163,
+                        "topics": [
+                          "c2",
+                          "doh",
+                          "golang",
+                          "hacktoberfest",
+                          "https",
+                          "infosec",
+                          "quic",
+                          "red-team",
+                          "security-tools"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T18:47:41.803Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "References"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Deimos C2 🔎 →"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "nettitude/PoshC2",
+                      "description": "nettitude/PoshC2",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement.",
+                        "homepage": null,
+                        "id": 141987967,
+                        "language": "PowerShell",
+                        "license": "BSD-3-Clause",
+                        "last_commit": "2025-11-20T13:55:21Z",
+                        "open_issues": 25,
+                        "owner": "nettitude",
+                        "repo": "PoshC2",
+                        "stars": 2138,
+                        "topics": [
+                          "c2",
+                          "csharp",
+                          "nettitude",
+                          "payloads",
+                          "poshc2",
+                          "poshc2-installation",
+                          "powershell",
+                          "proxy-aware",
+                          "python3",
+                          "redteam"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T18:47:41.803Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "References"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Posh C2 🔎 →"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "n1nj4sec/pupy",
+                      "description": "n1nj4sec/pupy",
+                      "children": [],
+                      "repo_info": {
+                        "archived": true,
+                        "description": "Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C",
+                        "homepage": null,
+                        "id": 42882329,
+                        "language": "Python",
+                        "license": "NOASSERTION",
+                        "last_commit": "2024-03-22T08:52:53Z",
+                        "open_issues": 177,
+                        "owner": "n1nj4sec",
+                        "repo": "pupy",
+                        "stars": 8999,
+                        "topics": [
+                          "android",
+                          "backdoor",
+                          "linux",
+                          "mac-os",
+                          "meterpreter",
+                          "payload",
+                          "pentesting",
+                          "post-exploitation",
+                          "pupy",
+                          "python",
+                          "rat",
+                          "reflective-injection",
+                          "remote-access",
+                          "remote-admin-tool",
+                          "reverse-shell",
+                          "shell",
+                          "windows"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T18:47:41.803Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "References"
+                }
+              ],
+              "description": "Note: This search uses regex and requires a paid account.",
+              "node_type": "group",
+              "title": "Pupy RAT C2 🔎 →"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "lgandx/Responder",
+                      "description": "lgandx/Responder",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication. ",
+                        "homepage": null,
+                        "id": 67535141,
+                        "language": "Python",
+                        "license": "GPL-3.0",
+                        "last_commit": "2026-06-10T14:28:34Z",
+                        "open_issues": 30,
+                        "owner": "lgandx",
+                        "repo": "Responder",
+                        "stars": 6610,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T18:47:41.803Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "lgandx/Responder",
+                      "description": "lgandx/Responder",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication. ",
+                        "homepage": null,
+                        "id": 67535141,
+                        "language": "Python",
+                        "license": "GPL-3.0",
+                        "last_commit": "2026-06-10T14:28:34Z",
+                        "open_issues": 30,
+                        "owner": "lgandx",
+                        "repo": "Responder",
+                        "stars": 6610,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T18:47:41.803Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "References"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Responder Server 🔎 →"
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang.",
-            "homepage": null,
-            "id": 78200488,
-            "language": "Go",
-            "license": "GPL-3.0",
-            "last_commit": "2025-04-17T15:08:42Z",
-            "open_issues": 20,
-            "owner": "Ne0nd0g",
-            "repo": "merlin",
-            "stars": 5608,
-            "topics": [
-              "agent",
-              "c2",
-              "command-and-control",
-              "golang",
-              "http2",
-              "post-exploitation"
-            ]
-          },
-          "first_seen": "2026-08-28T18:47:41.803Z"
-        }
-      ],
-      "title": "References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "its-a-feature/Mythic",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A collaborative, multi-platform, red teaming framework",
-            "homepage": null,
-            "id": 139783546,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-27T20:23:10Z",
-            "open_issues": 50,
-            "owner": "its-a-feature",
-            "repo": "Mythic",
-            "stars": 4805,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:47:41.803Z"
-        }
-      ],
-      "title": "References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "DeimosC2/DeimosC2",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeimosC2 is a Golang command and control framework for post-exploitation.",
-            "homepage": null,
-            "id": 276189496,
-            "language": "Vue",
-            "license": "MIT",
-            "last_commit": "2025-04-17T17:49:44Z",
-            "open_issues": 25,
-            "owner": "DeimosC2",
-            "repo": "DeimosC2",
-            "stars": 1162,
-            "topics": [
-              "c2",
-              "doh",
-              "golang",
-              "hacktoberfest",
-              "https",
-              "infosec",
-              "quic",
-              "red-team",
-              "security-tools"
-            ]
-          },
-          "first_seen": "2026-08-28T18:47:41.803Z"
-        }
-      ],
-      "title": "References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "cobbr/Covenant",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Covenant is a collaborative .NET C2 framework for red teamers.",
-            "homepage": "https://cobbr.io/Covenant.html",
-            "id": 169597853,
-            "language": "C#",
-            "license": "GPL-3.0",
-            "last_commit": "2024-07-18T17:25:35Z",
-            "open_issues": 90,
-            "owner": "cobbr",
-            "repo": "Covenant",
-            "stars": 4738,
-            "topics": [
-              "c2",
-              "covenant",
-              "dotnet",
-              "dotnet-core",
-              "red-team"
-            ]
-          },
-          "first_seen": "2026-08-28T18:47:41.803Z"
-        }
-      ],
-      "title": "References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "nettitude/PoshC2",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement.",
-            "homepage": null,
-            "id": 141987967,
-            "language": "PowerShell",
-            "license": "BSD-3-Clause",
-            "last_commit": "2025-11-20T13:55:21Z",
-            "open_issues": 25,
-            "owner": "nettitude",
-            "repo": "PoshC2",
-            "stars": 2137,
-            "topics": [
-              "c2",
-              "csharp",
-              "nettitude",
-              "payloads",
-              "poshc2",
-              "poshc2-installation",
-              "powershell",
-              "proxy-aware",
-              "python3",
-              "redteam"
-            ]
-          },
-          "first_seen": "2026-08-28T18:47:41.803Z"
-        }
-      ],
-      "title": "References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "BishopFox/sliver",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Adversary Emulation Framework",
-            "homepage": null,
-            "id": 166304026,
-            "language": "Go",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-02T03:53:04Z",
-            "open_issues": 229,
-            "owner": "BishopFox",
-            "repo": "sliver",
-            "stars": 11951,
-            "topics": [
-              "adversarial-attacks",
-              "adversary-simulation",
-              "c2",
-              "command-and-control",
-              "dns",
-              "dns-server",
-              "golang",
-              "gplv3",
-              "http",
-              "implant",
-              "red-team",
-              "red-team-engagement",
-              "red-teaming",
-              "security-tools",
-              "sliver"
-            ]
-          },
-          "first_seen": "2026-08-28T18:47:41.803Z"
-        }
-      ],
-      "title": "References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "kgretzky/evilginx2",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
-            "homepage": null,
-            "id": 140412864,
-            "language": "Go",
-            "license": "BSD-3-Clause",
-            "last_commit": "2026-06-10T12:12:03Z",
-            "open_issues": 267,
-            "owner": "kgretzky",
-            "repo": "evilginx2",
-            "stars": 15686,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:47:41.803Z"
-        }
-      ],
-      "title": "References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "chvancooten/NimPlant",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A light-weight first-stage C2 implant written in Nim (and Rust).",
-            "homepage": null,
-            "id": 601157008,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2026-03-02T10:59:25Z",
-            "open_issues": 4,
-            "owner": "chvancooten",
-            "repo": "NimPlant",
-            "stars": 953,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:47:41.803Z"
-        }
-      ],
-      "title": "References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "wikiZ/RedGuard",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "RedGuard is a C2 front flow control tool,Can avoid Blue Teams,AVs,EDRs check.",
-            "homepage": null,
-            "id": 489841047,
-            "language": "Go",
-            "license": "GPL-2.0",
-            "last_commit": "2024-08-20T17:43:35Z",
-            "open_issues": 0,
-            "owner": "wikiZ",
-            "repo": "RedGuard",
-            "stars": 1570,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:47:41.803Z"
+          "node_type": "group",
+          "title": "Security Applications"
         },
         {
-          "node_type": "item",
-          "title": "wikiZ/RedGuard",
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "google/cadvisor",
+                      "description": "google/cadvisor",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Analyzes resource usage and performance characteristics of running containers.",
+                        "homepage": null,
+                        "id": 20653934,
+                        "language": "Go",
+                        "license": "NOASSERTION",
+                        "last_commit": "2026-10-02T15:22:50Z",
+                        "open_issues": 67,
+                        "owner": "google",
+                        "repo": "cadvisor",
+                        "stars": 19462,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T18:47:41.803Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "References"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "cAdvisor Dashboards 🔎 →"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "traefik/traefik",
+                      "description": "traefik/traefik",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "The Cloud Native Application Proxy",
+                        "homepage": "https://traefik.io",
+                        "id": 42408804,
+                        "language": "Go",
+                        "license": "MIT",
+                        "last_commit": "2026-10-02T07:12:06Z",
+                        "open_issues": 931,
+                        "owner": "traefik",
+                        "repo": "traefik",
+                        "stars": 65052,
+                        "topics": [
+                          "consul",
+                          "docker",
+                          "etcd",
+                          "go",
+                          "golang",
+                          "kubernetes",
+                          "letsencrypt",
+                          "load-balancer",
+                          "marathon",
+                          "mesos",
+                          "microservice",
+                          "reverse-proxy",
+                          "traefik",
+                          "zookeeper"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T18:47:41.803Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "References"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Traefik Dashboards 🔎 →"
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "RedGuard is a C2 front flow control tool,Can avoid Blue Teams,AVs,EDRs check.",
-            "homepage": null,
-            "id": 489841047,
-            "language": "Go",
-            "license": "GPL-2.0",
-            "last_commit": "2024-08-20T17:43:35Z",
-            "open_issues": 0,
-            "owner": "wikiZ",
-            "repo": "RedGuard",
-            "stars": 1570,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:47:41.803Z"
-        }
-      ],
-      "title": "References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "DeimosC2/DeimosC2",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeimosC2 is a Golang command and control framework for post-exploitation.",
-            "homepage": null,
-            "id": 276189496,
-            "language": "Vue",
-            "license": "MIT",
-            "last_commit": "2025-04-17T17:49:44Z",
-            "open_issues": 25,
-            "owner": "DeimosC2",
-            "repo": "DeimosC2",
-            "stars": 1162,
-            "topics": [
-              "c2",
-              "doh",
-              "golang",
-              "hacktoberfest",
-              "https",
-              "infosec",
-              "quic",
-              "red-team",
-              "security-tools"
-            ]
-          },
-          "first_seen": "2026-08-28T18:47:41.803Z"
-        }
-      ],
-      "title": "References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "nettitude/PoshC2",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement.",
-            "homepage": null,
-            "id": 141987967,
-            "language": "PowerShell",
-            "license": "BSD-3-Clause",
-            "last_commit": "2025-11-20T13:55:21Z",
-            "open_issues": 25,
-            "owner": "nettitude",
-            "repo": "PoshC2",
-            "stars": 2137,
-            "topics": [
-              "c2",
-              "csharp",
-              "nettitude",
-              "payloads",
-              "poshc2",
-              "poshc2-installation",
-              "powershell",
-              "proxy-aware",
-              "python3",
-              "redteam"
-            ]
-          },
-          "first_seen": "2026-08-28T18:47:41.803Z"
-        }
-      ],
-      "title": "References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "n1nj4sec/pupy",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C",
-            "homepage": null,
-            "id": 42882329,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2024-03-22T08:52:53Z",
-            "open_issues": 177,
-            "owner": "n1nj4sec",
-            "repo": "pupy",
-            "stars": 9000,
-            "topics": [
-              "android",
-              "backdoor",
-              "linux",
-              "mac-os",
-              "meterpreter",
-              "payload",
-              "pentesting",
-              "post-exploitation",
-              "pupy",
-              "python",
-              "rat",
-              "reflective-injection",
-              "remote-access",
-              "remote-admin-tool",
-              "reverse-shell",
-              "shell",
-              "windows"
-            ]
-          },
-          "first_seen": "2026-08-28T18:47:41.803Z"
-        }
-      ],
-      "title": "References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "lgandx/Responder",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication. ",
-            "homepage": null,
-            "id": 67535141,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2026-06-10T14:28:34Z",
-            "open_issues": 30,
-            "owner": "lgandx",
-            "repo": "Responder",
-            "stars": 6610,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:47:41.803Z"
+          "node_type": "group",
+          "title": "Dashboards"
         },
         {
-          "node_type": "item",
-          "title": "lgandx/Responder",
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "MythTV/mythweb",
+                      "description": "MythTV/mythweb",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "The official MythTV mythweb repository",
+                        "homepage": null,
+                        "id": 1130526,
+                        "language": "PHP",
+                        "license": "NOASSERTION",
+                        "last_commit": "2024-02-09T19:09:47Z",
+                        "open_issues": 14,
+                        "owner": "MythTV",
+                        "repo": "mythweb",
+                        "stars": 97,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T18:47:41.803Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "References"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "MythWeb 🔎 →"
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication. ",
-            "homepage": null,
-            "id": 67535141,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2026-06-10T14:28:34Z",
-            "open_issues": 30,
-            "owner": "lgandx",
-            "repo": "Responder",
-            "stars": 6610,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:47:41.803Z"
-        }
-      ],
-      "title": "References"
-    },
-    {
-      "description": null,
-      "items": [
+          "node_type": "group",
+          "title": "Media Servers"
+        },
         {
-          "node_type": "item",
-          "title": "google/cadvisor",
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "mongo-express/mongo-express",
+                      "description": "mongo-express/mongo-express",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Web-based MongoDB admin interface, written with Node.js and Express",
+                        "homepage": null,
+                        "id": 4117355,
+                        "language": "JavaScript",
+                        "license": "MIT",
+                        "last_commit": "2026-09-29T08:43:43Z",
+                        "open_issues": 166,
+                        "owner": "mongo-express",
+                        "repo": "mongo-express",
+                        "stars": 5984,
+                        "topics": [
+                          "express-middleware",
+                          "gui",
+                          "hacktoberfest",
+                          "hacktoberfest2020",
+                          "javascript",
+                          "mongodb",
+                          "standalone"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T18:47:41.803Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "References"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Mongo Express Admin Interface 🔎 →"
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Analyzes resource usage and performance characteristics of running containers.",
-            "homepage": null,
-            "id": 20653934,
-            "language": "Go",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-18T22:43:49Z",
-            "open_issues": 67,
-            "owner": "google",
-            "repo": "cadvisor",
-            "stars": 19461,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:47:41.803Z"
+          "node_type": "group",
+          "title": "Random Services"
         }
       ],
-      "title": "References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "traefik/traefik",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Cloud Native Application Proxy",
-            "homepage": "https://traefik.io",
-            "id": 42408804,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2026-10-02T07:12:06Z",
-            "open_issues": 930,
-            "owner": "traefik",
-            "repo": "traefik",
-            "stars": 65043,
-            "topics": [
-              "consul",
-              "docker",
-              "etcd",
-              "go",
-              "golang",
-              "kubernetes",
-              "letsencrypt",
-              "load-balancer",
-              "marathon",
-              "mesos",
-              "microservice",
-              "reverse-proxy",
-              "traefik",
-              "zookeeper"
-            ]
-          },
-          "first_seen": "2026-08-28T18:47:41.803Z"
-        }
-      ],
-      "title": "References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MythTV/mythweb",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The official MythTV mythweb repository",
-            "homepage": null,
-            "id": 1130526,
-            "language": "PHP",
-            "license": "NOASSERTION",
-            "last_commit": "2024-02-09T19:09:47Z",
-            "open_issues": 14,
-            "owner": "MythTV",
-            "repo": "mythweb",
-            "stars": 97,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:47:41.803Z"
-        }
-      ],
-      "title": "References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "mongo-express/mongo-express",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Web-based MongoDB admin interface, written with Node.js and Express",
-            "homepage": null,
-            "id": 4117355,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-09-29T08:43:43Z",
-            "open_issues": 166,
-            "owner": "mongo-express",
-            "repo": "mongo-express",
-            "stars": 5984,
-            "topics": [
-              "express-middleware",
-              "gui",
-              "hacktoberfest",
-              "hacktoberfest2020",
-              "javascript",
-              "mongodb",
-              "standalone"
-            ]
-          },
-          "first_seen": "2026-08-28T18:47:41.803Z"
-        }
-      ],
-      "title": "References"
+      "title": "Key"
     },
     {
       "description": null,
@@ -619,7 +789,7 @@
         {
           "node_type": "item",
           "title": "jakejarvis/awesome-shodan-queries",
-          "description": null,
+          "description": "jakejarvis/awesome-shodan-queries",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -632,7 +802,7 @@
             "open_issues": 13,
             "owner": "jakejarvis",
             "repo": "awesome-shodan-queries",
-            "stars": 7761,
+            "stars": 7760,
             "topics": [
               "awesome",
               "awesome-list",
@@ -657,7 +827,7 @@
         {
           "node_type": "item",
           "title": "salesforce/jarm",
-          "description": null,
+          "description": "salesforce/jarm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -670,7 +840,7 @@
             "open_issues": 15,
             "owner": "salesforce",
             "repo": "jarm",
-            "stars": 1322,
+            "stars": 1321,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -678,7 +848,7 @@
         {
           "node_type": "item",
           "title": "woj-ciech/Kamerka-GUI",
-          "description": null,
+          "description": "woj-ciech/Kamerka-GUI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -699,7 +869,7 @@
         {
           "node_type": "item",
           "title": "cedowens/C2-JARM",
-          "description": null,
+          "description": "cedowens/C2-JARM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -720,7 +890,7 @@
         {
           "node_type": "item",
           "title": "emilyaustin/censys-resources",
-          "description": null,
+          "description": "emilyaustin/censys-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -743,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T12:45:55.391Z",
+    "last_updated": "2026-10-03T04:36:46.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of fascinating and bizarre Censys Search Queries ",

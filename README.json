@@ -21,11 +21,11 @@
                         "id": 78200488,
                         "language": "Go",
                         "license": "GPL-3.0",
-                        "last_commit": "2026-10-04T02:54:28Z",
+                        "last_commit": "2026-10-04T20:15:28Z",
                         "open_issues": 20,
                         "owner": "Ne0nd0g",
                         "repo": "merlin",
-                        "stars": 5609,
+                        "stars": 5610,
                         "topics": [
                           "agent",
                           "c2",
@@ -67,7 +67,7 @@
                         "open_issues": 52,
                         "owner": "its-a-feature",
                         "repo": "Mythic",
-                        "stars": 4810,
+                        "stars": 4813,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -147,7 +147,7 @@
                         "open_issues": 90,
                         "owner": "cobbr",
                         "repo": "Covenant",
-                        "stars": 4739,
+                        "stars": 4740,
                         "topics": [
                           "c2",
                           "covenant",
@@ -231,10 +231,10 @@
                         "language": "Go",
                         "license": "GPL-3.0",
                         "last_commit": "2026-10-04T04:07:08Z",
-                        "open_issues": 228,
+                        "open_issues": 223,
                         "owner": "BishopFox",
                         "repo": "sliver",
-                        "stars": 11963,
+                        "stars": 11969,
                         "topics": [
                           "adversarial-attacks",
                           "adversary-simulation",
@@ -285,7 +285,7 @@
                         "open_issues": 266,
                         "owner": "kgretzky",
                         "repo": "evilginx2",
-                        "stars": 15685,
+                        "stars": 15688,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -502,7 +502,7 @@
                         "open_issues": 177,
                         "owner": "n1nj4sec",
                         "repo": "pupy",
-                        "stars": 9000,
+                        "stars": 9001,
                         "topics": [
                           "android",
                           "backdoor",
@@ -555,7 +555,7 @@
                         "open_issues": 30,
                         "owner": "lgandx",
                         "repo": "Responder",
-                        "stars": 6611,
+                        "stars": 6612,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -576,7 +576,7 @@
                         "open_issues": 30,
                         "owner": "lgandx",
                         "repo": "Responder",
-                        "stars": 6611,
+                        "stars": 6612,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -615,10 +615,10 @@
                         "language": "Go",
                         "license": "NOASSERTION",
                         "last_commit": "2026-10-02T15:22:50Z",
-                        "open_issues": 67,
+                        "open_issues": 68,
                         "owner": "google",
                         "repo": "cadvisor",
-                        "stars": 19465,
+                        "stars": 19468,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -649,11 +649,11 @@
                         "id": 42408804,
                         "language": "Go",
                         "license": "MIT",
-                        "last_commit": "2026-10-02T07:12:06Z",
-                        "open_issues": 932,
+                        "last_commit": "2026-10-05T13:10:07Z",
+                        "open_issues": 930,
                         "owner": "traefik",
                         "repo": "traefik",
-                        "stars": 65061,
+                        "stars": 65073,
                         "topics": [
                           "consul",
                           "docker",
@@ -748,11 +748,11 @@
                         "id": 4117355,
                         "language": "JavaScript",
                         "license": "MIT",
-                        "last_commit": "2026-10-03T22:12:09Z",
+                        "last_commit": "2026-10-05T13:53:45Z",
                         "open_issues": 166,
                         "owner": "mongo-express",
                         "repo": "mongo-express",
-                        "stars": 5985,
+                        "stars": 5986,
                         "topics": [
                           "express-middleware",
                           "gui",
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T12:28:48.066Z",
+    "last_updated": "2026-10-05T14:51:28.013Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of fascinating and bizarre Censys Search Queries ",
@@ -925,7 +925,7 @@
       "open_issues": 2,
       "owner": "thehappydinoa",
       "repo": "awesome-censys-queries",
-      "stars": 1247,
+      "stars": 1249,
       "topics": [
         "awesome",
         "awesome-list",

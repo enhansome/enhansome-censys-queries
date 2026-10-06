@@ -67,7 +67,7 @@
                         "open_issues": 53,
                         "owner": "its-a-feature",
                         "repo": "Mythic",
-                        "stars": 4816,
+                        "stars": 4817,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -285,7 +285,7 @@
                         "open_issues": 266,
                         "owner": "kgretzky",
                         "repo": "evilginx2",
-                        "stars": 15692,
+                        "stars": 15693,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -555,7 +555,7 @@
                         "open_issues": 30,
                         "owner": "lgandx",
                         "repo": "Responder",
-                        "stars": 6613,
+                        "stars": 6614,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -576,7 +576,7 @@
                         "open_issues": 30,
                         "owner": "lgandx",
                         "repo": "Responder",
-                        "stars": 6613,
+                        "stars": 6614,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -650,10 +650,10 @@
                         "language": "Go",
                         "license": "MIT",
                         "last_commit": "2026-10-06T07:48:29Z",
-                        "open_issues": 932,
+                        "open_issues": 933,
                         "owner": "traefik",
                         "repo": "traefik",
-                        "stars": 65083,
+                        "stars": 65087,
                         "topics": [
                           "consul",
                           "docker",
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:54:28.234Z",
+    "last_updated": "2026-10-06T13:24:02.202Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of fascinating and bizarre Censys Search Queries ",
@@ -925,7 +925,7 @@
       "open_issues": 2,
       "owner": "thehappydinoa",
       "repo": "awesome-censys-queries",
-      "stars": 1250,
+      "stars": 1249,
       "topics": [
         "awesome",
         "awesome-list",

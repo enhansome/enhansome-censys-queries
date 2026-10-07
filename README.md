@@ -324,7 +324,7 @@ same_service(port: 7443 and tls.certificates.leaf_data.subject.organization: "My
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/its-a-feature/Mythic> ⭐ 4,817 | 🐛 53 | 🌐 JavaScript | 📅 2026-09-27
+* <https://github.com/its-a-feature/Mythic> ⭐ 4,816 | 🐛 53 | 🌐 JavaScript | 📅 2026-09-27
 * <https://michaelkoczwara.medium.com/hunting-c2-with-shodan-223ca250d06f>
 
 </details>
@@ -373,7 +373,7 @@ same_service(
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/nettitude/PoshC2> ⭐ 2,139 | 🐛 25 | 🌐 PowerShell | 📅 2025-11-20
+* <https://github.com/nettitude/PoshC2> ⭐ 2,140 | 🐛 25 | 🌐 PowerShell | 📅 2025-11-20
 
 </details>
 
@@ -395,7 +395,7 @@ same_service(
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/BishopFox/sliver> ⭐ 11,974 | 🐛 223 | 🌐 Go | 📅 2026-10-06
+* <https://github.com/BishopFox/sliver> ⭐ 11,989 | 🐛 223 | 🌐 Go | 📅 2026-10-06
 
 </details>
 
@@ -408,7 +408,7 @@ services.jarm.fingerprint: "20d14d20d21d20d20c20d14d20d20daddf8a68a1444c74b6dbe0
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/kgretzky/evilginx2> ⭐ 15,693 | 🐛 266 | 🌐 Go | 📅 2026-06-10
+* <https://github.com/kgretzky/evilginx2> ⭐ 15,691 | 🐛 266 | 🌐 Go | 📅 2026-06-10
 
 </details>
 
@@ -584,7 +584,7 @@ services.tls.certificates.leaf_data.subject_dn: "C=US, ST=Minnesota, L=Minnetonk
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/nettitude/PoshC2/blob/517903431ab43e6d714b24b0752ba111f5d4c2f1/poshc2/server/Config.py#L137> ⭐ 2,139 | 🐛 25 | 🌐 PowerShell | 📅 2025-11-20
+* <https://github.com/nettitude/PoshC2/blob/517903431ab43e6d714b24b0752ba111f5d4c2f1/poshc2/server/Config.py#L137> ⭐ 2,140 | 🐛 25 | 🌐 PowerShell | 📅 2025-11-20
 * <https://michaelkoczwara.medium.com/hunting-c2-with-shodan-223ca250d06f>
 
 </details>
@@ -708,7 +708,7 @@ same_service(services.http.response.html_title=`cAdvisor - /` and services.http.
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/google/cadvisor> ⭐ 19,468 | 🐛 68 | 🌐 Go | 📅 2026-10-02
+* <https://github.com/google/cadvisor> ⭐ 19,470 | 🐛 68 | 🌐 Go | 📅 2026-10-02
 
 </details>
 
@@ -753,7 +753,7 @@ same_service(services.http.request.uri: "*/dashboard/" and services.http.respons
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/traefik/traefik> ⭐ 65,087 | 🐛 933 | 🌐 Go | 📅 2026-10-06
+* <https://github.com/traefik/traefik> ⭐ 65,098 | 🐛 939 | 🌐 Go | 📅 2026-10-06
 
 </details>
 
@@ -1040,7 +1040,7 @@ not same_service(services.port: 443 and services.name: UNKNOWN and services.tls.
 
 ## Credits
 
-* [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,767 | 🐛 13 | 📅 2024-05-27
+* [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,772 | 🐛 13 | 📅 2024-05-27
 * [salesforce/jarm](https://github.com/salesforce/jarm) ⭐ 1,322 | 🐛 15 | 🌐 Python | 📅 2026-08-13
 * [woj-ciech/Kamerka-GUI](https://github.com/woj-ciech/Kamerka-GUI) ⭐ 871 | 🐛 3 | 🌐 CSS | 📅 2026-06-07
 * [cedowens/C2-JARM](https://github.com/cedowens/C2-JARM) ⭐ 144 | 🐛 1 | 📅 2023-04-20
@@ -1059,4 +1059,4 @@ not same_service(services.port: 443 and services.name: UNKNOWN and services.tls.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._

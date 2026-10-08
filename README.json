@@ -67,7 +67,7 @@
                         "open_issues": 53,
                         "owner": "its-a-feature",
                         "repo": "Mythic",
-                        "stars": 4816,
+                        "stars": 4820,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -144,10 +144,10 @@
                         "language": "C#",
                         "license": "GPL-3.0",
                         "last_commit": "2024-07-18T17:25:35Z",
-                        "open_issues": 90,
+                        "open_issues": 89,
                         "owner": "cobbr",
                         "repo": "Covenant",
-                        "stars": 4742,
+                        "stars": 4741,
                         "topics": [
                           "c2",
                           "covenant",
@@ -234,7 +234,7 @@
                         "open_issues": 223,
                         "owner": "BishopFox",
                         "repo": "sliver",
-                        "stars": 11989,
+                        "stars": 11995,
                         "topics": [
                           "adversarial-attacks",
                           "adversary-simulation",
@@ -285,7 +285,7 @@
                         "open_issues": 266,
                         "owner": "kgretzky",
                         "repo": "evilginx2",
-                        "stars": 15691,
+                        "stars": 15695,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -502,7 +502,7 @@
                         "open_issues": 177,
                         "owner": "n1nj4sec",
                         "repo": "pupy",
-                        "stars": 9000,
+                        "stars": 8999,
                         "topics": [
                           "android",
                           "backdoor",
@@ -555,7 +555,7 @@
                         "open_issues": 30,
                         "owner": "lgandx",
                         "repo": "Responder",
-                        "stars": 6614,
+                        "stars": 6616,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -576,7 +576,7 @@
                         "open_issues": 30,
                         "owner": "lgandx",
                         "repo": "Responder",
-                        "stars": 6614,
+                        "stars": 6616,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -618,7 +618,7 @@
                         "open_issues": 68,
                         "owner": "google",
                         "repo": "cadvisor",
-                        "stars": 19470,
+                        "stars": 19473,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -649,11 +649,11 @@
                         "id": 42408804,
                         "language": "Go",
                         "license": "MIT",
-                        "last_commit": "2026-10-06T07:48:29Z",
-                        "open_issues": 939,
+                        "last_commit": "2026-10-08T07:58:26Z",
+                        "open_issues": 940,
                         "owner": "traefik",
                         "repo": "traefik",
-                        "stars": 65098,
+                        "stars": 65111,
                         "topics": [
                           "consul",
                           "docker",
@@ -752,7 +752,7 @@
                         "open_issues": 166,
                         "owner": "mongo-express",
                         "repo": "mongo-express",
-                        "stars": 5988,
+                        "stars": 5989,
                         "topics": [
                           "express-middleware",
                           "gui",
@@ -837,7 +837,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-08-13T17:58:03Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "salesforce",
             "repo": "jarm",
             "stars": 1322,
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T13:33:03.531Z",
+    "last_updated": "2026-10-08T13:38:44.038Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of fascinating and bizarre Censys Search Queries ",

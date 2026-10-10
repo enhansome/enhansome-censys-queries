@@ -309,7 +309,7 @@ services.jarm.fingerprint: "29d21b20d29d29d21c41d21b21b41d494e0df9532e75299f15ba
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/Ne0nd0g/merlin> ⭐ 5,612 | 🐛 20 | 🌐 Go | 📅 2026-10-04
+* <https://github.com/Ne0nd0g/merlin> ⭐ 5,612 | 🐛 21 | 🌐 Go | 📅 2026-10-04
 
 </details>
 
@@ -324,7 +324,7 @@ same_service(port: 7443 and tls.certificates.leaf_data.subject.organization: "My
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/its-a-feature/Mythic> ⭐ 4,821 | 🐛 51 | 🌐 JavaScript | 📅 2026-10-08
+* <https://github.com/its-a-feature/Mythic> ⭐ 4,824 | 🐛 52 | 🌐 JavaScript | 📅 2026-10-08
 * <https://michaelkoczwara.medium.com/hunting-c2-with-shodan-223ca250d06f>
 
 </details>
@@ -338,7 +338,7 @@ services.jarm.fingerprint: "00000000000000000041d00000041d9535d5979f591ae8e547c5
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/DeimosC2/DeimosC2> ⭐ 1,164 | 🐛 25 | 🌐 Vue | 📅 2025-04-17
+* <https://github.com/DeimosC2/DeimosC2> ⭐ 1,165 | 🐛 25 | 🌐 Vue | 📅 2025-04-17
 
 </details>
 
@@ -395,7 +395,7 @@ same_service(
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/BishopFox/sliver> ⭐ 12,000 | 🐛 225 | 🌐 Go | 📅 2026-10-08
+* <https://github.com/BishopFox/sliver> ⭐ 12,021 | 🐛 225 | 🌐 Go | 📅 2026-10-08
 
 </details>
 
@@ -408,7 +408,7 @@ services.jarm.fingerprint: "20d14d20d21d20d20c20d14d20d20daddf8a68a1444c74b6dbe0
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/kgretzky/evilginx2> ⭐ 15,700 | 🐛 266 | 🌐 Go | 📅 2026-06-10
+* <https://github.com/kgretzky/evilginx2> ⭐ 15,704 | 🐛 266 | 🌐 Go | 📅 2026-06-10
 
 </details>
 
@@ -570,7 +570,7 @@ same_service((services.http.response.html_title="Deimos C2" or services.tls.cert
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/DeimosC2/DeimosC2/blob/2f368a5b151ea2da9f4fcc3627b1eb7d28b38fe5/c2/lib/certs/gen_cert.go> ⭐ 1,164 | 🐛 25 | 🌐 Vue | 📅 2025-04-17
+* <https://github.com/DeimosC2/DeimosC2/blob/2f368a5b151ea2da9f4fcc3627b1eb7d28b38fe5/c2/lib/certs/gen_cert.go> ⭐ 1,165 | 🐛 25 | 🌐 Vue | 📅 2025-04-17
 * <https://michaelkoczwara.medium.com/hunting-c2-with-shodan-223ca250d06f>
 
 </details>
@@ -708,7 +708,7 @@ same_service(services.http.response.html_title=`cAdvisor - /` and services.http.
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/google/cadvisor> ⭐ 19,474 | 🐛 70 | 🌐 Go | 📅 2026-10-02
+* <https://github.com/google/cadvisor> ⭐ 19,472 | 🐛 71 | 🌐 Go | 📅 2026-10-02
 
 </details>
 
@@ -753,7 +753,7 @@ same_service(services.http.request.uri: "*/dashboard/" and services.http.respons
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/traefik/traefik> ⭐ 65,111 | 🐛 946 | 🌐 Go | 📅 2026-10-08
+* <https://github.com/traefik/traefik> ⭐ 65,140 | 🐛 949 | 🌐 Go | 📅 2026-10-08
 
 </details>
 
@@ -890,7 +890,7 @@ services.http.response.html_title: "Home - Mongo Express"
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/mongo-express/mongo-express> ⭐ 5,988 | 🐛 166 | 🌐 JavaScript | 📅 2026-10-06
+* <https://github.com/mongo-express/mongo-express> ⭐ 5,986 | 🐛 165 | 🌐 JavaScript | 📅 2026-10-10
 
 </details>
 
@@ -1040,7 +1040,7 @@ not same_service(services.port: 443 and services.name: UNKNOWN and services.tls.
 
 ## Credits
 
-* [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,777 | 🐛 13 | 📅 2024-05-27
+* [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,781 | 🐛 13 | 📅 2024-05-27
 * [salesforce/jarm](https://github.com/salesforce/jarm) ⭐ 1,322 | 🐛 16 | 🌐 Python | 📅 2026-08-13
 * [woj-ciech/Kamerka-GUI](https://github.com/woj-ciech/Kamerka-GUI) ⭐ 871 | 🐛 3 | 🌐 CSS | 📅 2026-06-07
 * [cedowens/C2-JARM](https://github.com/cedowens/C2-JARM) ⭐ 144 | 🐛 1 | 📅 2023-04-20
@@ -1059,4 +1059,4 @@ not same_service(services.port: 443 and services.name: UNKNOWN and services.tls.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._

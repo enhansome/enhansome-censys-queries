@@ -309,7 +309,7 @@ services.jarm.fingerprint: "29d21b20d29d29d21c41d21b21b41d494e0df9532e75299f15ba
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/Ne0nd0g/merlin> ⭐ 5,615 | 🐛 21 | 🌐 Go | 📅 2026-10-15
+* <https://github.com/Ne0nd0g/merlin> ⭐ 5,616 | 🐛 21 | 🌐 Go | 📅 2026-10-15
 
 </details>
 
@@ -395,7 +395,7 @@ same_service(
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/BishopFox/sliver> ⭐ 12,125 | 🐛 232 | 🌐 Go | 📅 2026-10-14
+* <https://github.com/BishopFox/sliver> ⭐ 12,132 | 🐛 232 | 🌐 Go | 📅 2026-10-14
 
 </details>
 
@@ -408,7 +408,7 @@ services.jarm.fingerprint: "20d14d20d21d20d20c20d14d20d20daddf8a68a1444c74b6dbe0
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/kgretzky/evilginx2> ⭐ 15,730 | 🐛 266 | 🌐 Go | 📅 2026-06-10
+* <https://github.com/kgretzky/evilginx2> ⭐ 15,735 | 🐛 266 | 🌐 Go | 📅 2026-06-10
 
 </details>
 
@@ -708,7 +708,7 @@ same_service(services.http.response.html_title=`cAdvisor - /` and services.http.
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/google/cadvisor> ⭐ 19,478 | 🐛 71 | 🌐 Go | 📅 2026-10-12
+* <https://github.com/google/cadvisor> ⭐ 19,481 | 🐛 72 | 🌐 Go | 📅 2026-10-12
 
 </details>
 
@@ -753,7 +753,7 @@ same_service(services.http.request.uri: "*/dashboard/" and services.http.respons
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/traefik/traefik> ⭐ 65,232 | 🐛 969 | 🌐 Go | 📅 2026-10-15
+* <https://github.com/traefik/traefik> ⭐ 65,247 | 🐛 944 | 🌐 Go | 📅 2026-10-15
 
 </details>
 
@@ -890,7 +890,7 @@ services.http.response.html_title: "Home - Mongo Express"
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/mongo-express/mongo-express> ⭐ 5,983 | 🐛 165 | 🌐 JavaScript | 📅 2026-10-15
+* <https://github.com/mongo-express/mongo-express> ⭐ 5,983 | 🐛 165 | 🌐 JavaScript | 📅 2026-10-16
 
 </details>
 
@@ -1040,9 +1040,9 @@ not same_service(services.port: 443 and services.name: UNKNOWN and services.tls.
 
 ## Credits
 
-* [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,796 | 🐛 13 | 📅 2024-05-27
+* [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,800 | 🐛 13 | 📅 2024-05-27
 * [salesforce/jarm](https://github.com/salesforce/jarm) ⭐ 1,325 | 🐛 16 | 🌐 Python | 📅 2026-08-13
-* [woj-ciech/Kamerka-GUI](https://github.com/woj-ciech/Kamerka-GUI) ⭐ 872 | 🐛 3 | 🌐 CSS | 📅 2026-06-07
+* [woj-ciech/Kamerka-GUI](https://github.com/woj-ciech/Kamerka-GUI) ⭐ 873 | 🐛 3 | 🌐 CSS | 📅 2026-06-07
 * [cedowens/C2-JARM](https://github.com/cedowens/C2-JARM) ⭐ 144 | 🐛 1 | 📅 2023-04-20
 * [emilyaustin/censys-resources](https://github.com/emilyaustin/censys-resources) ⭐ 3 | 🐛 0 | 📅 2022-08-08
 * [drb-ra](https://github.com/drb-ra)
@@ -1059,4 +1059,4 @@ not same_service(services.port: 443 and services.name: UNKNOWN and services.tls.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._

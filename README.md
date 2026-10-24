@@ -309,7 +309,7 @@ services.jarm.fingerprint: "29d21b20d29d29d21c41d21b21b41d494e0df9532e75299f15ba
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/Ne0nd0g/merlin> ⭐ 5,619 | 🐛 21 | 🌐 Go | 📅 2026-10-15
+* <https://github.com/Ne0nd0g/merlin> ⭐ 5,617 | 🐛 21 | 🌐 Go | 📅 2026-10-15
 
 </details>
 
@@ -338,7 +338,7 @@ services.jarm.fingerprint: "00000000000000000041d00000041d9535d5979f591ae8e547c5
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/DeimosC2/DeimosC2> ⭐ 1,168 | 🐛 25 | 🌐 Vue | 📅 2025-04-17
+* <https://github.com/DeimosC2/DeimosC2> ⭐ 1,167 | 🐛 25 | 🌐 Vue | 📅 2025-04-17
 
 </details>
 
@@ -354,7 +354,7 @@ same_service(
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/cobbr/Covenant> ⭐ 4,745 | 🐛 89 | 🌐 C# | 📅 2024-07-18
+* <https://github.com/cobbr/Covenant> ⭐ 4,744 | 🐛 89 | 🌐 C# | 📅 2024-07-18
 
 </details>
 
@@ -395,7 +395,7 @@ same_service(
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/BishopFox/sliver> ⭐ 12,166 | 🐛 236 | 🌐 Go | 📅 2026-10-22
+* <https://github.com/BishopFox/sliver> ⭐ 12,169 | 🐛 235 | 🌐 Go | 📅 2026-10-23
 
 </details>
 
@@ -408,7 +408,7 @@ services.jarm.fingerprint: "20d14d20d21d20d20c20d14d20d20daddf8a68a1444c74b6dbe0
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/kgretzky/evilginx2> ⭐ 15,772 | 🐛 266 | 🌐 Go | 📅 2026-06-10
+* <https://github.com/kgretzky/evilginx2> ⭐ 15,774 | 🐛 266 | 🌐 Go | 📅 2026-06-10
 
 </details>
 
@@ -570,7 +570,7 @@ same_service((services.http.response.html_title="Deimos C2" or services.tls.cert
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/DeimosC2/DeimosC2/blob/2f368a5b151ea2da9f4fcc3627b1eb7d28b38fe5/c2/lib/certs/gen_cert.go> ⭐ 1,168 | 🐛 25 | 🌐 Vue | 📅 2025-04-17
+* <https://github.com/DeimosC2/DeimosC2/blob/2f368a5b151ea2da9f4fcc3627b1eb7d28b38fe5/c2/lib/certs/gen_cert.go> ⭐ 1,167 | 🐛 25 | 🌐 Vue | 📅 2025-04-17
 * <https://michaelkoczwara.medium.com/hunting-c2-with-shodan-223ca250d06f>
 
 </details>
@@ -708,7 +708,7 @@ same_service(services.http.response.html_title=`cAdvisor - /` and services.http.
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/google/cadvisor> ⭐ 19,496 | 🐛 75 | 🌐 Go | 📅 2026-10-12
+* <https://github.com/google/cadvisor> ⭐ 19,498 | 🐛 75 | 🌐 Go | 📅 2026-10-12
 
 </details>
 
@@ -753,7 +753,7 @@ same_service(services.http.request.uri: "*/dashboard/" and services.http.respons
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/traefik/traefik> ⭐ 65,332 | 🐛 959 | 🌐 Go | 📅 2026-10-23
+* <https://github.com/traefik/traefik> ⭐ 65,344 | 🐛 960 | 🌐 Go | 📅 2026-10-23
 
 </details>
 
@@ -1040,8 +1040,8 @@ not same_service(services.port: 443 and services.name: UNKNOWN and services.tls.
 
 ## Credits
 
-* [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,809 | 🐛 13 | 📅 2024-05-27
-* [salesforce/jarm](https://github.com/salesforce/jarm) ⭐ 1,327 | 🐛 16 | 🌐 Python | 📅 2026-08-13
+* [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,808 | 🐛 13 | 📅 2024-05-27
+* [salesforce/jarm](https://github.com/salesforce/jarm) ⭐ 1,326 | 🐛 16 | 🌐 Python | 📅 2026-08-13
 * [woj-ciech/Kamerka-GUI](https://github.com/woj-ciech/Kamerka-GUI) ⭐ 875 | 🐛 3 | 🌐 CSS | 📅 2026-06-07
 * [cedowens/C2-JARM](https://github.com/cedowens/C2-JARM) ⭐ 144 | 🐛 1 | 📅 2023-04-20
 * [emilyaustin/censys-resources](https://github.com/emilyaustin/censys-resources) ⭐ 4 | 🐛 0 | 📅 2022-08-08
@@ -1059,4 +1059,4 @@ not same_service(services.port: 443 and services.name: UNKNOWN and services.tls.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._

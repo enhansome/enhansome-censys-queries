@@ -25,7 +25,7 @@
                         "open_issues": 21,
                         "owner": "Ne0nd0g",
                         "repo": "merlin",
-                        "stars": 5619,
+                        "stars": 5617,
                         "topics": [
                           "agent",
                           "c2",
@@ -102,7 +102,7 @@
                         "open_issues": 25,
                         "owner": "DeimosC2",
                         "repo": "DeimosC2",
-                        "stars": 1168,
+                        "stars": 1167,
                         "topics": [
                           "c2",
                           "doh",
@@ -147,7 +147,7 @@
                         "open_issues": 89,
                         "owner": "cobbr",
                         "repo": "Covenant",
-                        "stars": 4745,
+                        "stars": 4744,
                         "topics": [
                           "c2",
                           "covenant",
@@ -230,11 +230,11 @@
                         "id": 166304026,
                         "language": "Go",
                         "license": "GPL-3.0",
-                        "last_commit": "2026-10-22T23:08:40Z",
-                        "open_issues": 236,
+                        "last_commit": "2026-10-23T16:18:13Z",
+                        "open_issues": 235,
                         "owner": "BishopFox",
                         "repo": "sliver",
-                        "stars": 12166,
+                        "stars": 12169,
                         "topics": [
                           "adversarial-attacks",
                           "adversary-simulation",
@@ -285,7 +285,7 @@
                         "open_issues": 266,
                         "owner": "kgretzky",
                         "repo": "evilginx2",
-                        "stars": 15772,
+                        "stars": 15774,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -411,7 +411,7 @@
                         "open_issues": 25,
                         "owner": "DeimosC2",
                         "repo": "DeimosC2",
-                        "stars": 1168,
+                        "stars": 1167,
                         "topics": [
                           "c2",
                           "doh",
@@ -618,7 +618,7 @@
                         "open_issues": 75,
                         "owner": "google",
                         "repo": "cadvisor",
-                        "stars": 19496,
+                        "stars": 19498,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -649,11 +649,11 @@
                         "id": 42408804,
                         "language": "Go",
                         "license": "MIT",
-                        "last_commit": "2026-10-23T08:34:06Z",
-                        "open_issues": 959,
+                        "last_commit": "2026-10-23T13:38:07Z",
+                        "open_issues": 960,
                         "owner": "traefik",
                         "repo": "traefik",
-                        "stars": 65332,
+                        "stars": 65344,
                         "topics": [
                           "consul",
                           "docker",
@@ -802,7 +802,7 @@
             "open_issues": 13,
             "owner": "jakejarvis",
             "repo": "awesome-shodan-queries",
-            "stars": 7809,
+            "stars": 7808,
             "topics": [
               "awesome",
               "awesome-list",
@@ -840,7 +840,7 @@
             "open_issues": 16,
             "owner": "salesforce",
             "repo": "jarm",
-            "stars": 1327,
+            "stars": 1326,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T11:46:46.805Z",
+    "last_updated": "2026-10-24T11:12:07.620Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of fascinating and bizarre Censys Search Queries ",

@@ -324,7 +324,7 @@ same_service(port: 7443 and tls.certificates.leaf_data.subject.organization: "My
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/its-a-feature/Mythic> ⭐ 4,860 | 🐛 48 | 🌐 JavaScript | 📅 2026-10-17
+* <https://github.com/its-a-feature/Mythic> ⭐ 4,862 | 🐛 48 | 🌐 JavaScript | 📅 2026-10-17
 * <https://michaelkoczwara.medium.com/hunting-c2-with-shodan-223ca250d06f>
 
 </details>
@@ -395,7 +395,7 @@ same_service(
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/BishopFox/sliver> ⭐ 12,175 | 🐛 227 | 🌐 Go | 📅 2026-10-25
+* <https://github.com/BishopFox/sliver> ⭐ 12,178 | 🐛 229 | 🌐 Go | 📅 2026-10-26
 
 </details>
 
@@ -408,7 +408,7 @@ services.jarm.fingerprint: "20d14d20d21d20d20c20d14d20d20daddf8a68a1444c74b6dbe0
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/kgretzky/evilginx2> ⭐ 15,780 | 🐛 266 | 🌐 Go | 📅 2026-06-10
+* <https://github.com/kgretzky/evilginx2> ⭐ 15,784 | 🐛 266 | 🌐 Go | 📅 2026-06-10
 
 </details>
 
@@ -708,7 +708,7 @@ same_service(services.http.response.html_title=`cAdvisor - /` and services.http.
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/google/cadvisor> ⭐ 19,500 | 🐛 75 | 🌐 Go | 📅 2026-10-12
+* <https://github.com/google/cadvisor> ⭐ 19,502 | 🐛 75 | 🌐 Go | 📅 2026-10-12
 
 </details>
 
@@ -753,7 +753,7 @@ same_service(services.http.request.uri: "*/dashboard/" and services.http.respons
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/traefik/traefik> ⭐ 65,358 | 🐛 961 | 🌐 Go | 📅 2026-10-23
+* <https://github.com/traefik/traefik> ⭐ 65,377 | 🐛 961 | 🌐 Go | 📅 2026-10-26
 
 </details>
 
@@ -890,7 +890,7 @@ services.http.response.html_title: "Home - Mongo Express"
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/mongo-express/mongo-express> ⭐ 5,989 | 🐛 165 | 🌐 JavaScript | 📅 2026-10-21
+* <https://github.com/mongo-express/mongo-express> ⭐ 5,988 | 🐛 165 | 🌐 JavaScript | 📅 2026-10-21
 
 </details>
 
@@ -1040,7 +1040,7 @@ not same_service(services.port: 443 and services.name: UNKNOWN and services.tls.
 
 ## Credits
 
-* [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,813 | 🐛 13 | 📅 2024-05-27
+* [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,818 | 🐛 13 | 📅 2024-05-27
 * [salesforce/jarm](https://github.com/salesforce/jarm) ⭐ 1,326 | 🐛 16 | 🌐 Python | 📅 2026-08-13
 * [woj-ciech/Kamerka-GUI](https://github.com/woj-ciech/Kamerka-GUI) ⭐ 875 | 🐛 3 | 🌐 CSS | 📅 2026-06-07
 * [cedowens/C2-JARM](https://github.com/cedowens/C2-JARM) ⭐ 144 | 🐛 1 | 📅 2023-04-20
@@ -1059,4 +1059,4 @@ not same_service(services.port: 443 and services.name: UNKNOWN and services.tls.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._

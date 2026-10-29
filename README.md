@@ -324,7 +324,7 @@ same_service(port: 7443 and tls.certificates.leaf_data.subject.organization: "My
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/its-a-feature/Mythic> ⭐ 4,865 | 🐛 49 | 🌐 JavaScript | 📅 2026-10-17
+* <https://github.com/its-a-feature/Mythic> ⭐ 4,867 | 🐛 49 | 🌐 JavaScript | 📅 2026-10-17
 * <https://michaelkoczwara.medium.com/hunting-c2-with-shodan-223ca250d06f>
 
 </details>
@@ -338,7 +338,7 @@ services.jarm.fingerprint: "00000000000000000041d00000041d9535d5979f591ae8e547c5
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/DeimosC2/DeimosC2> ⭐ 1,167 | 🐛 25 | 🌐 Vue | 📅 2025-04-17
+* <https://github.com/DeimosC2/DeimosC2> ⭐ 1,168 | 🐛 25 | 🌐 Vue | 📅 2025-04-17
 
 </details>
 
@@ -395,7 +395,7 @@ same_service(
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/BishopFox/sliver> ⭐ 12,188 | 🐛 228 | 🌐 Go | 📅 2026-10-26
+* <https://github.com/BishopFox/sliver> ⭐ 12,198 | 🐛 228 | 🌐 Go | 📅 2026-10-26
 
 </details>
 
@@ -408,7 +408,7 @@ services.jarm.fingerprint: "20d14d20d21d20d20c20d14d20d20daddf8a68a1444c74b6dbe0
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/kgretzky/evilginx2> ⭐ 15,795 | 🐛 266 | 🌐 Go | 📅 2026-06-10
+* <https://github.com/kgretzky/evilginx2> ⭐ 15,801 | 🐛 266 | 🌐 Go | 📅 2026-06-10
 
 </details>
 
@@ -570,7 +570,7 @@ same_service((services.http.response.html_title="Deimos C2" or services.tls.cert
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/DeimosC2/DeimosC2/blob/2f368a5b151ea2da9f4fcc3627b1eb7d28b38fe5/c2/lib/certs/gen_cert.go> ⭐ 1,167 | 🐛 25 | 🌐 Vue | 📅 2025-04-17
+* <https://github.com/DeimosC2/DeimosC2/blob/2f368a5b151ea2da9f4fcc3627b1eb7d28b38fe5/c2/lib/certs/gen_cert.go> ⭐ 1,168 | 🐛 25 | 🌐 Vue | 📅 2025-04-17
 * <https://michaelkoczwara.medium.com/hunting-c2-with-shodan-223ca250d06f>
 
 </details>
@@ -708,7 +708,7 @@ same_service(services.http.response.html_title=`cAdvisor - /` and services.http.
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/google/cadvisor> ⭐ 19,504 | 🐛 77 | 🌐 Go | 📅 2026-10-12
+* <https://github.com/google/cadvisor> ⭐ 19,507 | 🐛 78 | 🌐 Go | 📅 2026-10-12
 
 </details>
 
@@ -753,7 +753,7 @@ same_service(services.http.request.uri: "*/dashboard/" and services.http.respons
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/traefik/traefik> ⭐ 65,398 | 🐛 976 | 🌐 Go | 📅 2026-10-28
+* <https://github.com/traefik/traefik> ⭐ 65,403 | 🐛 982 | 🌐 Go | 📅 2026-10-29
 
 </details>
 
@@ -890,7 +890,7 @@ services.http.response.html_title: "Home - Mongo Express"
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/mongo-express/mongo-express> ⭐ 5,988 | 🐛 167 | 🌐 JavaScript | 📅 2026-10-27
+* <https://github.com/mongo-express/mongo-express> ⭐ 5,988 | 🐛 166 | 🌐 JavaScript | 📅 2026-10-29
 
 </details>
 
@@ -1059,4 +1059,4 @@ not same_service(services.port: 443 and services.name: UNKNOWN and services.tls.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._

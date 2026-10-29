@@ -67,7 +67,7 @@
                         "open_issues": 49,
                         "owner": "its-a-feature",
                         "repo": "Mythic",
-                        "stars": 4865,
+                        "stars": 4867,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -102,7 +102,7 @@
                         "open_issues": 25,
                         "owner": "DeimosC2",
                         "repo": "DeimosC2",
-                        "stars": 1167,
+                        "stars": 1168,
                         "topics": [
                           "c2",
                           "doh",
@@ -234,7 +234,7 @@
                         "open_issues": 228,
                         "owner": "BishopFox",
                         "repo": "sliver",
-                        "stars": 12188,
+                        "stars": 12198,
                         "topics": [
                           "adversarial-attacks",
                           "adversary-simulation",
@@ -285,7 +285,7 @@
                         "open_issues": 266,
                         "owner": "kgretzky",
                         "repo": "evilginx2",
-                        "stars": 15795,
+                        "stars": 15801,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -411,7 +411,7 @@
                         "open_issues": 25,
                         "owner": "DeimosC2",
                         "repo": "DeimosC2",
-                        "stars": 1167,
+                        "stars": 1168,
                         "topics": [
                           "c2",
                           "doh",
@@ -502,7 +502,7 @@
                         "open_issues": 177,
                         "owner": "n1nj4sec",
                         "repo": "pupy",
-                        "stars": 9007,
+                        "stars": 9006,
                         "topics": [
                           "android",
                           "backdoor",
@@ -615,10 +615,10 @@
                         "language": "Go",
                         "license": "NOASSERTION",
                         "last_commit": "2026-10-12T18:03:59Z",
-                        "open_issues": 77,
+                        "open_issues": 78,
                         "owner": "google",
                         "repo": "cadvisor",
-                        "stars": 19504,
+                        "stars": 19507,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -649,11 +649,11 @@
                         "id": 42408804,
                         "language": "Go",
                         "license": "MIT",
-                        "last_commit": "2026-10-28T12:44:08Z",
-                        "open_issues": 976,
+                        "last_commit": "2026-10-29T10:38:25Z",
+                        "open_issues": 982,
                         "owner": "traefik",
                         "repo": "traefik",
-                        "stars": 65398,
+                        "stars": 65403,
                         "topics": [
                           "consul",
                           "docker",
@@ -748,8 +748,8 @@
                         "id": 4117355,
                         "language": "JavaScript",
                         "license": "MIT",
-                        "last_commit": "2026-10-27T23:35:45Z",
-                        "open_issues": 167,
+                        "last_commit": "2026-10-29T01:42:48Z",
+                        "open_issues": 166,
                         "owner": "mongo-express",
                         "repo": "mongo-express",
                         "stars": 5988,
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T13:06:43.560Z",
+    "last_updated": "2026-10-29T13:12:36.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of fascinating and bizarre Censys Search Queries ",

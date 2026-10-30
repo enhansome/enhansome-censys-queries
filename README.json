@@ -64,10 +64,10 @@
                         "language": "JavaScript",
                         "license": "NOASSERTION",
                         "last_commit": "2026-10-17T16:22:17Z",
-                        "open_issues": 49,
+                        "open_issues": 48,
                         "owner": "its-a-feature",
                         "repo": "Mythic",
-                        "stars": 4867,
+                        "stars": 4869,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -147,7 +147,7 @@
                         "open_issues": 89,
                         "owner": "cobbr",
                         "repo": "Covenant",
-                        "stars": 4746,
+                        "stars": 4748,
                         "topics": [
                           "c2",
                           "covenant",
@@ -231,10 +231,10 @@
                         "language": "Go",
                         "license": "GPL-3.0",
                         "last_commit": "2026-10-26T03:04:45Z",
-                        "open_issues": 228,
+                        "open_issues": 227,
                         "owner": "BishopFox",
                         "repo": "sliver",
-                        "stars": 12198,
+                        "stars": 12206,
                         "topics": [
                           "adversarial-attacks",
                           "adversary-simulation",
@@ -285,7 +285,7 @@
                         "open_issues": 266,
                         "owner": "kgretzky",
                         "repo": "evilginx2",
-                        "stars": 15801,
+                        "stars": 15805,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -355,7 +355,7 @@
                         "open_issues": 0,
                         "owner": "wikiZ",
                         "repo": "RedGuard",
-                        "stars": 1571,
+                        "stars": 1573,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -376,7 +376,7 @@
                         "open_issues": 0,
                         "owner": "wikiZ",
                         "repo": "RedGuard",
-                        "stars": 1571,
+                        "stars": 1573,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -499,7 +499,7 @@
                         "language": "Python",
                         "license": "NOASSERTION",
                         "last_commit": "2024-03-22T08:52:53Z",
-                        "open_issues": 177,
+                        "open_issues": 176,
                         "owner": "n1nj4sec",
                         "repo": "pupy",
                         "stars": 9006,
@@ -555,7 +555,7 @@
                         "open_issues": 31,
                         "owner": "lgandx",
                         "repo": "Responder",
-                        "stars": 6639,
+                        "stars": 6641,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -576,7 +576,7 @@
                         "open_issues": 31,
                         "owner": "lgandx",
                         "repo": "Responder",
-                        "stars": 6639,
+                        "stars": 6641,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -615,10 +615,10 @@
                         "language": "Go",
                         "license": "NOASSERTION",
                         "last_commit": "2026-10-12T18:03:59Z",
-                        "open_issues": 78,
+                        "open_issues": 79,
                         "owner": "google",
                         "repo": "cadvisor",
-                        "stars": 19507,
+                        "stars": 19508,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -649,11 +649,11 @@
                         "id": 42408804,
                         "language": "Go",
                         "license": "MIT",
-                        "last_commit": "2026-10-29T10:38:25Z",
-                        "open_issues": 982,
+                        "last_commit": "2026-10-30T11:00:11Z",
+                        "open_issues": 980,
                         "owner": "traefik",
                         "repo": "traefik",
-                        "stars": 65403,
+                        "stars": 65418,
                         "topics": [
                           "consul",
                           "docker",
@@ -748,11 +748,11 @@
                         "id": 4117355,
                         "language": "JavaScript",
                         "license": "MIT",
-                        "last_commit": "2026-10-29T01:42:48Z",
+                        "last_commit": "2026-10-29T15:03:33Z",
                         "open_issues": 166,
                         "owner": "mongo-express",
                         "repo": "mongo-express",
-                        "stars": 5988,
+                        "stars": 5987,
                         "topics": [
                           "express-middleware",
                           "gui",
@@ -802,7 +802,7 @@
             "open_issues": 13,
             "owner": "jakejarvis",
             "repo": "awesome-shodan-queries",
-            "stars": 7825,
+            "stars": 7828,
             "topics": [
               "awesome",
               "awesome-list",
@@ -840,7 +840,7 @@
             "open_issues": 16,
             "owner": "salesforce",
             "repo": "jarm",
-            "stars": 1326,
+            "stars": 1327,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T13:12:36.318Z",
+    "last_updated": "2026-10-30T13:05:08.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of fascinating and bizarre Censys Search Queries ",

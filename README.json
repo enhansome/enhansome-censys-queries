@@ -64,10 +64,10 @@
                         "language": "JavaScript",
                         "license": "NOASSERTION",
                         "last_commit": "2026-11-06T21:20:19Z",
-                        "open_issues": 47,
+                        "open_issues": 49,
                         "owner": "its-a-feature",
                         "repo": "Mythic",
-                        "stars": 4897,
+                        "stars": 4899,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -147,7 +147,7 @@
                         "open_issues": 89,
                         "owner": "cobbr",
                         "repo": "Covenant",
-                        "stars": 4746,
+                        "stars": 4747,
                         "topics": [
                           "c2",
                           "covenant",
@@ -231,10 +231,10 @@
                         "language": "Go",
                         "license": "GPL-3.0",
                         "last_commit": "2026-11-07T03:58:04Z",
-                        "open_issues": 229,
+                        "open_issues": 230,
                         "owner": "BishopFox",
                         "repo": "sliver",
-                        "stars": 12250,
+                        "stars": 12275,
                         "topics": [
                           "adversarial-attacks",
                           "adversary-simulation",
@@ -285,7 +285,7 @@
                         "open_issues": 267,
                         "owner": "kgretzky",
                         "repo": "evilginx2",
-                        "stars": 15837,
+                        "stars": 15861,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -552,10 +552,10 @@
                         "language": "Python",
                         "license": "GPL-3.0",
                         "last_commit": "2026-06-10T14:28:34Z",
-                        "open_issues": 31,
+                        "open_issues": 32,
                         "owner": "lgandx",
                         "repo": "Responder",
-                        "stars": 6660,
+                        "stars": 6667,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -573,10 +573,10 @@
                         "language": "Python",
                         "license": "GPL-3.0",
                         "last_commit": "2026-06-10T14:28:34Z",
-                        "open_issues": 31,
+                        "open_issues": 32,
                         "owner": "lgandx",
                         "repo": "Responder",
-                        "stars": 6660,
+                        "stars": 6667,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -615,10 +615,10 @@
                         "language": "Go",
                         "license": "NOASSERTION",
                         "last_commit": "2026-10-12T18:03:59Z",
-                        "open_issues": 79,
+                        "open_issues": 81,
                         "owner": "google",
                         "repo": "cadvisor",
-                        "stars": 19517,
+                        "stars": 19518,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -650,10 +650,10 @@
                         "language": "Go",
                         "license": "MIT",
                         "last_commit": "2026-11-06T15:58:06Z",
-                        "open_issues": 973,
+                        "open_issues": 978,
                         "owner": "traefik",
                         "repo": "traefik",
-                        "stars": 65487,
+                        "stars": 65492,
                         "topics": [
                           "consul",
                           "docker",
@@ -802,7 +802,7 @@
             "open_issues": 13,
             "owner": "jakejarvis",
             "repo": "awesome-shodan-queries",
-            "stars": 7838,
+            "stars": 7839,
             "topics": [
               "awesome",
               "awesome-list",
@@ -840,7 +840,7 @@
             "open_issues": 16,
             "owner": "salesforce",
             "repo": "jarm",
-            "stars": 1329,
+            "stars": 1328,
             "topics": []
           },
           "first_seen": "2026-08-28T18:47:41.803Z"
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T13:13:01.712Z",
+    "last_updated": "2026-11-08T13:34:46.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of fascinating and bizarre Censys Search Queries ",

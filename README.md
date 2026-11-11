@@ -324,7 +324,7 @@ same_service(port: 7443 and tls.certificates.leaf_data.subject.organization: "My
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/its-a-feature/Mythic> ⭐ 4,902 | 🐛 49 | 🌐 JavaScript | 📅 2026-11-06
+* <https://github.com/its-a-feature/Mythic> ⭐ 4,903 | 🐛 49 | 🌐 JavaScript | 📅 2026-11-06
 * <https://michaelkoczwara.medium.com/hunting-c2-with-shodan-223ca250d06f>
 
 </details>
@@ -395,7 +395,7 @@ same_service(
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/BishopFox/sliver> ⭐ 12,303 | 🐛 229 | 🌐 Go | 📅 2026-11-08
+* <https://github.com/BishopFox/sliver> ⭐ 12,308 | 🐛 229 | 🌐 Go | 📅 2026-11-08
 
 </details>
 
@@ -640,8 +640,8 @@ services.banner="HTTP/1.1 401 Unauthorized\r\nServer: Microsoft-IIS/7.5\r\nDate:
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/lgandx/Responder> ⭐ 6,670 | 🐛 32 | 🌐 Python | 📅 2026-06-10
-* <https://github.com/lgandx/Responder/blob/07c963f5ea52e27977ef603de180d446d009ed41/tools/MultiRelay/RelayMultiPackets.py#L93> ⭐ 6,670 | 🐛 32 | 🌐 Python | 📅 2026-06-10
+* <https://github.com/lgandx/Responder> ⭐ 6,672 | 🐛 32 | 🌐 Python | 📅 2026-06-10
+* <https://github.com/lgandx/Responder/blob/07c963f5ea52e27977ef603de180d446d009ed41/tools/MultiRelay/RelayMultiPackets.py#L93> ⭐ 6,672 | 🐛 32 | 🌐 Python | 📅 2026-06-10
 
 </details>
 
@@ -708,7 +708,7 @@ same_service(services.http.response.html_title=`cAdvisor - /` and services.http.
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/google/cadvisor> ⭐ 19,524 | 🐛 81 | 🌐 Go | 📅 2026-10-12
+* <https://github.com/google/cadvisor> ⭐ 19,525 | 🐛 81 | 🌐 Go | 📅 2026-10-12
 
 </details>
 
@@ -753,7 +753,7 @@ same_service(services.http.request.uri: "*/dashboard/" and services.http.respons
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/traefik/traefik> ⭐ 65,507 | 🐛 980 | 🌐 Go | 📅 2026-11-10
+* <https://github.com/traefik/traefik> ⭐ 65,525 | 🐛 980 | 🌐 Go | 📅 2026-11-11
 
 </details>
 
@@ -890,7 +890,7 @@ services.http.response.html_title: "Home - Mongo Express"
 <details>
     <summary markdown="span">References</summary>
 
-* <https://github.com/mongo-express/mongo-express> ⭐ 5,984 | 🐛 167 | 🌐 JavaScript | 📅 2026-11-10
+* <https://github.com/mongo-express/mongo-express> ⭐ 5,983 | 🐛 166 | 🌐 JavaScript | 📅 2026-11-10
 
 </details>
 
@@ -1040,7 +1040,7 @@ not same_service(services.port: 443 and services.name: UNKNOWN and services.tls.
 
 ## Credits
 
-* [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,842 | 🐛 13 | 📅 2024-05-27
+* [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) ⭐ 7,843 | 🐛 13 | 📅 2024-05-27
 * [salesforce/jarm](https://github.com/salesforce/jarm) ⭐ 1,328 | 🐛 16 | 🌐 Python | 📅 2026-08-13
 * [woj-ciech/Kamerka-GUI](https://github.com/woj-ciech/Kamerka-GUI) ⭐ 874 | 🐛 3 | 🌐 CSS | 📅 2026-06-07
 * [cedowens/C2-JARM](https://github.com/cedowens/C2-JARM) ⭐ 144 | 🐛 1 | 📅 2023-04-20
@@ -1059,4 +1059,4 @@ not same_service(services.port: 443 and services.name: UNKNOWN and services.tls.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._

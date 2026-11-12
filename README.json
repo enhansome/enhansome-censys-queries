@@ -25,7 +25,7 @@
                         "open_issues": 20,
                         "owner": "Ne0nd0g",
                         "repo": "merlin",
-                        "stars": 5629,
+                        "stars": 5631,
                         "topics": [
                           "agent",
                           "c2",
@@ -64,10 +64,10 @@
                         "language": "JavaScript",
                         "license": "NOASSERTION",
                         "last_commit": "2026-11-06T21:20:19Z",
-                        "open_issues": 49,
+                        "open_issues": 50,
                         "owner": "its-a-feature",
                         "repo": "Mythic",
-                        "stars": 4903,
+                        "stars": 4909,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -147,7 +147,7 @@
                         "open_issues": 89,
                         "owner": "cobbr",
                         "repo": "Covenant",
-                        "stars": 4748,
+                        "stars": 4751,
                         "topics": [
                           "c2",
                           "covenant",
@@ -185,10 +185,10 @@
                         "language": "PowerShell",
                         "license": "BSD-3-Clause",
                         "last_commit": "2025-11-20T13:55:21Z",
-                        "open_issues": 25,
+                        "open_issues": 26,
                         "owner": "nettitude",
                         "repo": "PoshC2",
-                        "stars": 2136,
+                        "stars": 2139,
                         "topics": [
                           "c2",
                           "csharp",
@@ -231,10 +231,10 @@
                         "language": "Go",
                         "license": "GPL-3.0",
                         "last_commit": "2026-11-08T17:31:01Z",
-                        "open_issues": 229,
+                        "open_issues": 231,
                         "owner": "BishopFox",
                         "repo": "sliver",
-                        "stars": 12308,
+                        "stars": 12315,
                         "topics": [
                           "adversarial-attacks",
                           "adversary-simulation",
@@ -285,7 +285,7 @@
                         "open_issues": 267,
                         "owner": "kgretzky",
                         "repo": "evilginx2",
-                        "stars": 15892,
+                        "stars": 15898,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -453,10 +453,10 @@
                         "language": "PowerShell",
                         "license": "BSD-3-Clause",
                         "last_commit": "2025-11-20T13:55:21Z",
-                        "open_issues": 25,
+                        "open_issues": 26,
                         "owner": "nettitude",
                         "repo": "PoshC2",
-                        "stars": 2136,
+                        "stars": 2139,
                         "topics": [
                           "c2",
                           "csharp",
@@ -502,7 +502,7 @@
                         "open_issues": 176,
                         "owner": "n1nj4sec",
                         "repo": "pupy",
-                        "stars": 9005,
+                        "stars": 9006,
                         "topics": [
                           "android",
                           "backdoor",
@@ -555,7 +555,7 @@
                         "open_issues": 32,
                         "owner": "lgandx",
                         "repo": "Responder",
-                        "stars": 6672,
+                        "stars": 6675,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -576,7 +576,7 @@
                         "open_issues": 32,
                         "owner": "lgandx",
                         "repo": "Responder",
-                        "stars": 6672,
+                        "stars": 6675,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -618,7 +618,7 @@
                         "open_issues": 81,
                         "owner": "google",
                         "repo": "cadvisor",
-                        "stars": 19525,
+                        "stars": 19526,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -649,11 +649,11 @@
                         "id": 42408804,
                         "language": "Go",
                         "license": "MIT",
-                        "last_commit": "2026-11-11T12:46:03Z",
-                        "open_issues": 980,
+                        "last_commit": "2026-11-12T13:54:09Z",
+                        "open_issues": 979,
                         "owner": "traefik",
                         "repo": "traefik",
-                        "stars": 65525,
+                        "stars": 65546,
                         "topics": [
                           "consul",
                           "docker",
@@ -802,7 +802,7 @@
             "open_issues": 13,
             "owner": "jakejarvis",
             "repo": "awesome-shodan-queries",
-            "stars": 7843,
+            "stars": 7845,
             "topics": [
               "awesome",
               "awesome-list",
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T14:30:04.818Z",
+    "last_updated": "2026-11-12T15:23:03.288Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of fascinating and bizarre Censys Search Queries ",
@@ -925,7 +925,7 @@
       "open_issues": 2,
       "owner": "thehappydinoa",
       "repo": "awesome-censys-queries",
-      "stars": 1250,
+      "stars": 1251,
       "topics": [
         "awesome",
         "awesome-list",

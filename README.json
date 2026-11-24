@@ -25,7 +25,7 @@
                         "open_issues": 20,
                         "owner": "Ne0nd0g",
                         "repo": "merlin",
-                        "stars": 5637,
+                        "stars": 5638,
                         "topics": [
                           "agent",
                           "c2",
@@ -64,10 +64,10 @@
                         "language": "JavaScript",
                         "license": "NOASSERTION",
                         "last_commit": "2026-11-20T19:03:31Z",
-                        "open_issues": 51,
+                        "open_issues": 50,
                         "owner": "its-a-feature",
                         "repo": "Mythic",
-                        "stars": 4934,
+                        "stars": 4935,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -147,7 +147,7 @@
                         "open_issues": 90,
                         "owner": "cobbr",
                         "repo": "Covenant",
-                        "stars": 4754,
+                        "stars": 4755,
                         "topics": [
                           "c2",
                           "covenant",
@@ -234,7 +234,7 @@
                         "open_issues": 237,
                         "owner": "BishopFox",
                         "repo": "sliver",
-                        "stars": 12409,
+                        "stars": 12418,
                         "topics": [
                           "adversarial-attacks",
                           "adversary-simulation",
@@ -285,7 +285,7 @@
                         "open_issues": 267,
                         "owner": "kgretzky",
                         "repo": "evilginx2",
-                        "stars": 15970,
+                        "stars": 15973,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T18:47:41.803Z"
@@ -502,7 +502,7 @@
                         "open_issues": 176,
                         "owner": "n1nj4sec",
                         "repo": "pupy",
-                        "stars": 9009,
+                        "stars": 9008,
                         "topics": [
                           "android",
                           "backdoor",
@@ -615,7 +615,7 @@
                         "language": "Go",
                         "license": "NOASSERTION",
                         "last_commit": "2026-11-20T16:00:13Z",
-                        "open_issues": 78,
+                        "open_issues": 79,
                         "owner": "google",
                         "repo": "cadvisor",
                         "stars": 19553,
@@ -649,11 +649,11 @@
                         "id": 42408804,
                         "language": "Go",
                         "license": "MIT",
-                        "last_commit": "2026-11-23T14:27:53Z",
-                        "open_issues": 1020,
+                        "last_commit": "2026-11-24T12:56:35Z",
+                        "open_issues": 1023,
                         "owner": "traefik",
                         "repo": "traefik",
-                        "stars": 65667,
+                        "stars": 65680,
                         "topics": [
                           "consul",
                           "docker",
@@ -748,8 +748,8 @@
                         "id": 4117355,
                         "language": "JavaScript",
                         "license": "MIT",
-                        "last_commit": "2026-11-23T16:31:06Z",
-                        "open_issues": 167,
+                        "last_commit": "2026-11-23T23:18:16Z",
+                        "open_issues": 168,
                         "owner": "mongo-express",
                         "repo": "mongo-express",
                         "stars": 5980,
@@ -802,7 +802,7 @@
             "open_issues": 13,
             "owner": "jakejarvis",
             "repo": "awesome-shodan-queries",
-            "stars": 7868,
+            "stars": 7870,
             "topics": [
               "awesome",
               "awesome-list",
@@ -913,7 +913,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T18:22:21.478Z",
+    "last_updated": "2026-11-24T17:53:51.115Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of fascinating and bizarre Censys Search Queries ",
@@ -921,7 +921,7 @@
       "id": 525467576,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-26T18:57:54Z",
+      "last_commit": "2026-11-23T18:51:55Z",
       "open_issues": 2,
       "owner": "thehappydinoa",
       "repo": "awesome-censys-queries",
